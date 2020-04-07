@@ -1,0 +1,40 @@
+Windows Registry Editor Version 5.00
+
+; MajorGeeks.Com
+; How to Restore the Windows Photo Viewer on Windows 10
+; https://www.majorgeeks.com/content/page/restore_the_windows_photo_viewer_on_windows_10.html
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.jpg]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.jpeg]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.gif]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.png]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.bmp]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.tiff]
+@="PhotoViewer.FileAssoc.Tiff"
+
+
+; Change Extension's File Type
+[HKEY_CURRENT_USER\Software\Classes\.ico]
+
+@="PhotoViewer.FileAssoc.Tiff"

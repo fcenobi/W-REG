@@ -1,123 +1,540 @@
-21b0cee72397cc94b18a43f2de826098d3974be0d1452d44c3dce11ac8f1bb2d *0002-DEFAULT_FILE_ASSOCIATIONS\divx.reg
-eb3632f26ee40d63c0c9f55abc390e7f2b104a90d0e5f3be44b47869e7108714 *0002-DEFAULT_FILE_ASSOCIATIONS\iso.reg
-17cb42d0d4c3dfe75db52b7c3a8964f9e83611aeb52ead79584fd41ab0abe933 *0001-TWEAKS\0010-Microsoft-Windows-Application-Experience-DISABLE_ALL.reg
-695605f4fec6d0a1d295dd2afc1bda15ae70fc2b218b047a31a31d4fd6ddabc9 *0002-DEFAULT_FILE_ASSOCIATIONS\ani.reg
-fc51c90a74bf1eb6db0df06e0b42217501627ba0af186013d52bf01e7dde95a2 *0001-TWEAKS\0001-Disable_Lock_Screen.reg
-bd8af0d9a033b69a76c694a285fa8ba9387d6862b0166010f80629f4492d3416 *0002-DEFAULT_FILE_ASSOCIATIONS\themepack.reg
-e093e99f4940a6b954db7bdc5406642d27678ae55d6d34061bb38b289a4a160f *0002-DEFAULT_FILE_ASSOCIATIONS\dll.reg
-c41f751fde7ac06ef8138e2ec1f053e20a5d98e9d07d80ae5042f1a69d8bfb2a *0001-TWEAKS\0011-ErrorReporting-Disabled.reg
-54a2ef50418950928c65a013456e0326fb4d6afce679a551477c652f41c82fd6 *0001-TWEAKS\0001-Enable_Lock_Screen.reg
-a7bc4ca353e634ff7f2fdd609bf86332fe286b83662fe3b9574e49ba2fdba5e6 *0002-DEFAULT_FILE_ASSOCIATIONS\avi.reg
-c296b3e4971ab84cf367d6fd5b762fb7d44fa52668eb3a236fc7f5b171b0852b *0001-TWEAKS\0002-Disable_Sign_in_Background_Image.reg
-5be8cca3df5ec43e5f610a03aead8b54e4be09330177ddcb44675a5ff693b7d8 *0002-DEFAULT_FILE_ASSOCIATIONS\msi.reg
-3507f7b199a7ff283df9f1b0e5b797d63a8c2544146108c6899e406ae227a204 *0003-DEFAULT_SERVICES\W10-Services-Defaults.reg
-7491361f46e624201a8471f1b4b6e0144177a059e1f441a004c343778fe1095a *0002-DEFAULT_FILE_ASSOCIATIONS\tif.reg
-c050453c3507b4620a13fa5b78b52a238ab6677fab55b44c1bcdbeed71d1c3fb *0002-DEFAULT_FILE_ASSOCIATIONS\msp.reg
-b4b9b2c07b7c0863da811ee779870867c5257669ed1f291cea94742c90413006 *0001-TWEAKS\0012-MERGED-DISABLE-SPY10.reg
-bc9b2ad340eeca57e0a7786769be95517b88e4002d0ec42b4fb68c086e9e1ee1 *0002-DEFAULT_FILE_ASSOCIATIONS\msu.reg
-11a70add027e2f461b668467c3b7a44ad603e63c5aafd7f066ca257ae2f7d729 *0002-DEFAULT_FILE_ASSOCIATIONS\tiff.reg
-b5e2b7076cc96c95b7a6e8e28e3e37c05f284989bba83aa9b51eec14abdd09de *0002-DEFAULT_FILE_ASSOCIATIONS\jpe.reg
-22d2c0516f778650dda3fcbe1422a475f7f8092e68849abbf0fb94d955c65ac3 *0002-DEFAULT_FILE_ASSOCIATIONS\bak.reg
-53abab3f6f54c9643c911d202ceddad7311110bf07c26553bff9a9328d110396 *0002-DEFAULT_FILE_ASSOCIATIONS\Open_with-Choose_default_program.reg
-c11a4b97e64faed6b278ef6130e5769a6e1db3848089ad4dd39546125eeed40f *0002-DEFAULT_FILE_ASSOCIATIONS\txt.reg
-639a685da26e1b481b46ddae6feb598205828e4567c5d5b292f49226f94ec61f *0003-DEFAULT_SERVICES\W10-Services-Defaults.txt
-0b69731b7b77c6a435fc724f7cac80daf8896f44fcafbaa0253373e9e3ec4c5f *0002-DEFAULT_FILE_ASSOCIATIONS\bat.reg
-7d5dff7bc432609bac75070dd8febd7e5ea2e75ccf1a3ba6de6760b048af8cc2 *0001-TWEAKS\0002-Enable_Sign_in_Background_Image.reg
-949276ffd7e2ab04bd877c47f44aaf3658798bd072ac0bc88bf08ce66262a7d5 *0002-DEFAULT_FILE_ASSOCIATIONS\pdf.reg
-447280d1fed16e2fa2eda5142b3d8af1d2dc27a7b8684e32cfbce8b18a6bc3f0 *0002-DEFAULT_FILE_ASSOCIATIONS\url.reg
-acd1c20e5edc02b7013daba9ff5a54971dcec2d5b95106349303019a70871df3 *0001-TWEAKS\0013-disable-appcompat.reg
-34b0bd8362bcfaef135ff32ab8178f66b444c1d6276d758140648169b96e33c9 *0002-DEFAULT_FILE_ASSOCIATIONS\png (1).reg
-3588c47bbc680afe7c5cfc1f3593dd06e2f41e91e08d45dd56296306c82c3f41 *0002-DEFAULT_FILE_ASSOCIATIONS\vbs.reg
-94932db8d9bf0f6a4f752106d69ad3363f5555aba6acde81fe1ecde7cd226856 *0001-TWEAKS\0014-AdvertisingInfo-disabled.reg
-10d0a2bc86f65435784a2a7c348aaf88dae2267d559a92d72a7eedc1f2b0c154 *0002-DEFAULT_FILE_ASSOCIATIONS\Drive.reg
-902438642237636c255fc5547e0c2f1dcc273ff3095696b2247db49fe7a62644 *0002-DEFAULT_FILE_ASSOCIATIONS\vhd.reg
-6af6ea16747ba928ed68852c5929426b2cfbf791a9c9bbcf33b63bb8e2c8fae8 *0003-DEFAULT_SERVICES\W10-Services-Defaults.xls
-34b0bd8362bcfaef135ff32ab8178f66b444c1d6276d758140648169b96e33c9 *0002-DEFAULT_FILE_ASSOCIATIONS\png.reg
-39f9a4c1cf5ead2d8b826e74b32e1a8b4b58ab9431b0508a6edd69a37f3e05f5 *0001-TWEAKS\0015-Add_AHCI_Link_Power_Management-HIPM-DIPM_to_Power_Options.reg
-9b053c3eb2fc87ee7f29c523de165958001241e1299f4edb49304422d0ebf511 *0002-DEFAULT_FILE_ASSOCIATIONS\epub.reg
-d8b78881c026b87511c0e39e7c40cd5b87738a753a025a7ea99b97c53661ebbe *0002-DEFAULT_FILE_ASSOCIATIONS\bin.reg
-1ee3c09de4d024d91ba7a1ea359787b7a8eba4e5263cd708242a552385fd17ed *0002-DEFAULT_FILE_ASSOCIATIONS\vhdx.reg
-c27e577b97035f5f9699e958656002866650e65a16b8e100c1b7886bda1e7067 *0002-DEFAULT_FILE_ASSOCIATIONS\ps1.reg
-e42257a7811a72ddc74d578de35060836a746f50d103d31e49cc86d2d659b22e *0001-TWEAKS\0015-Remove_AHCI_Link_Power_Management-HIPM-DIPM_from_Power_Options.reg
-b9a144691c2f1c2304f37613fcc0858d73e812e1c114a21e28d9fc69dbdc3068 *0002-DEFAULT_FILE_ASSOCIATIONS\jpeg.reg
-816c9fbe56bd7ba7460f150b7a60579c65e28635eaa6a0bfc6391e6b355429ce *0001-TWEAKS\0003-Add_Scan_with_Windows_Defender-command.reg
-3ae8437a8db13a399c0ddc79dd4aa2be7692f9745c1db246346c9c2a61ef1acf *0002-DEFAULT_FILE_ASSOCIATIONS\wav.reg
-bb7c9873873dc118c68691625ea13cf4886d32c8332f15247c1705fbb2a3e439 *0002-DEFAULT_FILE_ASSOCIATIONS\bmp.reg
-487b18e45086df9fe1a6adbba024719a4c71a2434ddd5a8412320e357f512513 *0002-DEFAULT_FILE_ASSOCIATIONS\RDP.reg
-48b0654999c95275cff88104ed2ad8861ae47985aeb4dee1049716eab7986215 *0006-THEMES\Asus Gray.deskthemepack
-cbc809fee04397ff8f37415aeb0e90711bec7e34038dece7c6d54f2d9406e052 *0002-DEFAULT_FILE_ASSOCIATIONS\exe.reg
-12bfcf1dc6c628d9ebac00676a602fe94865b11bc211bfcc29a8723c9593d85e *0002-DEFAULT_FILE_ASSOCIATIONS\jpg.reg
-bf0c1e15fb1fb944312248394f2bb822bd8a04b1f25c3447b4590ef35f804238 *0002-DEFAULT_FILE_ASSOCIATIONS\cab.reg
-4fad47833cbe912652f06d73d67331398f2375e2e48e985987f4791bccc135f8 *0002-DEFAULT_FILE_ASSOCIATIONS\reg.reg
-4f490fbae84df17ecca1eff7e620ec79e75799e2829cb64f84803efa03daca68 *0001-TWEAKS\0016-Add_Troubleshoot_Compatibility_to_Context_Menu.reg
-a55823a7e3aeca32ed05d376aec7fd78c3cf9d25d215123e851e0d5512f2ed41 *0002-DEFAULT_FILE_ASSOCIATIONS\chm.reg
-15b3248d7a7071c3e4b9eb2990ff10d7548de5de9552e22b35fe326fc213b14d *0001-TWEAKS\0003-Remove_Scan_with_Windows_Defender_from-Command.reg
-6a89d23f2574dfa45c9ce09c2dee6d09a935c66f74bfe6c762c25fe9b36dcc46 *0002-DEFAULT_FILE_ASSOCIATIONS\wma.reg
-969cc5ad0fa7f9e6e52167143d7cf8d338a5b9612e59201605af635eb8233b46 *0002-DEFAULT_FILE_ASSOCIATIONS\js.reg
-9afd3acb21fe370d19c6c326f0266208016eacb27bfc0723681654955861fc1d *0002-DEFAULT_FILE_ASSOCIATIONS\Folder.reg
-6e7271b79451a7cb71838e4fe6ca1e38eda838581b15f2b5910468603b773bc8 *0006-THEMES\Deep Silence.deskthemepack
-478208971016ea9d914b6efe733889e389426410de0deb213fc85a6340da96e2 *0004-DiAGCAB\wu170509.diagcab
-414149650f3cb228e680392fe8a38a3312b9af4bd5549a6814c1354480529bf0 *0002-DEFAULT_FILE_ASSOCIATIONS\res.reg
-ac7aceaed04530580da3ab3cafb6f34aa43763a32aa84204dceca16d587f83d8 *0002-DEFAULT_FILE_ASSOCIATIONS\rtf.reg
-ae3b002c8fcd1c766c61585598af984056142b6fdac755b27c7d49a0054051c4 *0001-TWEAKS\0004-Add_Scan_with_Windows_Defender-UI.reg
-ec7efa518f791cda246283493fadee88eb72ac7ab13530bb114f3206400cf506 *0002-DEFAULT_FILE_ASSOCIATIONS\scr.reg
-7182b433ca332da3e452c7698bd01bbf1a4ba43238a643b5147cd90cd36ff674 *0002-DEFAULT_FILE_ASSOCIATIONS\svg.reg
-297b956b2dd0e327dbbbbb0c26a7ac6dc15ddf5ed80ee42ab17dece7cd801a22 *0002-DEFAULT_FILE_ASSOCIATIONS\theme.reg
-75506fa3b235d0a3d06888020d1b1fd21616940dd60ef1281695c9cb736dab5b *0001-TWEAKS\0004-Remove_Scan_with_Windows_Defender-UI.reg
-d2392155f9b519a6b502634c23075c10fdf560c1a14dcb605ff132ac2c9ec180 *0001-TWEAKS\0005-Turn_Off_Windows_Defender.reg
-490ec6236d43a00b9b83e96401751e6e419a2fb7519ef8cb56c0facaeb9b46cf *0001-TWEAKS\0005-Turn_On_Windows_Defender.reg
-5b5ed5da47fc9d3b5b4ee8ecad9285268905a8a2fb96ec6bec9ffe48be00f633 *0001-TWEAKS\0006-service-dnscache-cachettl-delete.reg
-1eb0d79789df573b0949646f6ce9e90d4f44c1535c272a3547860146e8f2f019 *0002-DEFAULT_FILE_ASSOCIATIONS\library-ms.reg
-4e802fa599ccc72e8067570b06f7beffe6f5e98c028b855c294bf5a0669a538f *0001-TWEAKS\0006-service-dnscache-cachettl.reg
-0d1d05f5fc3cbbeb6d582f9e4c47462c0ffb030928c5f2111c53938344f980dd *0001-TWEAKS\0007-notepad++_lng-pl.reg
-ca94279684b911452f83b8649da52ab6de2b9395ea90b99b6641d59f8d192706 *0002-DEFAULT_FILE_ASSOCIATIONS\lnk.reg
-fe98d453677b2ab4b0cda54cd1f56b4023eed55f3adf80f8ef9451570807d389 *0001-TWEAKS\0008-prefetch-disable-see_note_in_file.reg
-1c396fa4a78e7e20842f49eb8cb4254ff1bcf5c6d5793c6350bbe2b774860903 *0002-DEFAULT_FILE_ASSOCIATIONS\log.reg
-ac42751a42b5fff81110a97171379dbc68b327e5dbf90575cb7e9a7848a59e3d *0002-DEFAULT_FILE_ASSOCIATIONS\gif.reg
-7762b9932347b8261a540d13cc50dd9276e275a1f083363031e874a7faf1c483 *0001-TWEAKS\0009-Explorer-NoPreviousVersionsPage-disable.reg
-33d581b01c44558760a0470bc333e69e24d5d0a6627653be1d8f8bf495657df9 *0002-DEFAULT_FILE_ASSOCIATIONS\mailto.reg
-7d9504f5bb4d782684dc9e6e4c4d8dbfa4b65b480d6c4adc07f438c3ebc68255 *0001-TWEAKS\0009-Explorer-NoPreviousVersionsPage-enable.reg
-9e52b587489e216c6f988e4aa847d11be0bed8a5cd3354e1ceaf68a15c8b3987 *0002-DEFAULT_FILE_ASSOCIATIONS\htm.reg
-1d267b821eb6417f0474e6110e8dd7b08046af8b716af0fe8abdbac8e32feb68 *0001-TWEAKS\0016-Remove_Troubleshoot_Compatibility_from_Context_Menu.reg
-158fe7fb384798ff51ff6ab888c708dcaa0d3bab125714f19ddb38c148b2037a *0002-DEFAULT_FILE_ASSOCIATIONS\cmd.reg
-a3a1f317650c4a5bb8f65dd77371e2b10b5184b8f44c6b3a78ef7777587d406f *0001-TWEAKS\0017-Open_Command_Window_Here_Show.reg
-70f69b76b902b12d7ddf2d8e8661f8b4ba8b0149b10c24c28eee897c86588eec *0001-TWEAKS\0018-Remove Control Panel from File Explorer (Default).reg
-614fc25072e14eed224a388a3dc3a5ad51e175b59b20f23e570b8d70cf490869 *0006-THEMES\Deep.deskthemepack
-e2632ea2322d597c9bbe42232110f4c3f9c6eaed561516ce3f3b12e8619219d5 *0001-TWEAKS\0018-Add Control Panel Category View to File Explorer.reg
-5447a77695ee0a66af9698aeb00cc14e21bb389499d702a843982692f231b062 *0001-TWEAKS\0019-Add Recycle Bin to File Explorer.reg
-bef8421cc2f3f7fefa1f2ee99186399a449e2e29bde597d1bedef3d552d1bc7d *0002-DEFAULT_FILE_ASSOCIATIONS\mov.reg
-f2d7aaa71d0827cb7fa4a7959ab61527867e96b935510087dec5073e39285cb5 *0001-TWEAKS\0019-Remove Recycle Bin from File Explorer (Default).reg
-6a71fe8c8c3a085c9923ec99842db78e0aae953a327e232c69ad6ea8f8999342 *0001-TWEAKS\0020-WiFi-VirtualAdapter-names.reg
-9cc9d7ec8ea89fc562631b161de1d2c97455aa46c3274587346515faddb560ae *0002-DEFAULT_FILE_ASSOCIATIONS\mp3.reg
-aaa1102d6ce874c68537b8ccb98cbd15fb328f5624123e4eeaa9036b16f69996 *0004-DiAGCAB\wushowhide.diagcab
-7cc492dac0bcea270861a0afc668ff1317ed86c3f902cb83f1761efa84ffb599 *0002-DEFAULT_FILE_ASSOCIATIONS\html.reg
-fe830fe6b229397222bba5a999e48bbb8028f30a3a13f2995e4b15a31f790b1d *0002-DEFAULT_FILE_ASSOCIATIONS\wmv (1).reg
-9fbe600f0fc8a46119852f344c65743ce07b8751bc7361bc9d429e0b7eb24b7c *0002-DEFAULT_FILE_ASSOCIATIONS\mp4.reg
-b6e87f5d545fec703dea79260fbd8ac24820e3c63191fefe72b617f11f995c43 *0005-CMD\netsh.tweaks.cmd
-16b53abdf55cfed774f5a75e26c602957375a702cbd0b3bebdc99e226476fe28 *0005-CMD\clean.wu.cmd
-d4b73c264dd6169b718c6a2783764c2655cfbe5923c60c0ab0ac12858eb03c64 *0001-TWEAKS\0018-Add Control Panel Icon View to File Explorer.reg
-ebf6355a5b90d89edbdc1c3634cae07e6721400cb7eaa0fe03abce1754ee04c3 *0002-DEFAULT_FILE_ASSOCIATIONS\mpeg.reg
-7a4df41cd848c68abedef12c487242e2d00e6f4cf875bb7a95d89bb387f65e07 *0002-DEFAULT_FILE_ASSOCIATIONS\com.reg
-66fe3197b2d4a905c088628bf0b88b122a6b8d1c2838bdf8ad6bebe5f104f666 *0002-DEFAULT_FILE_ASSOCIATIONS\mpg.reg
-a9fdab8d1f2e1a2977dedf0050332accba3c759095f64fd3dfac60baac0fb152 *0002-DEFAULT_FILE_ASSOCIATIONS\dds.reg
 fd4cc2acd0c63f119ba649d3b3bcf6a4c8b0334ab066de9e570ae4b1e096adf4 *0002-DEFAULT_FILE_ASSOCIATIONS\http.reg
-4df010173d631642cf08a2ae8138c478d7685a79d522d025a52cba68edcf80bd *0002-DEFAULT_FILE_ASSOCIATIONS\msc.reg
-1dfb918d7b24ed997133b9b5a5dcbaba7c76db46c3735c7b09687df2da5aea2a *0002-DEFAULT_FILE_ASSOCIATIONS\diagcab.reg
-b0dc30319ffb40f051320b1e680596991df1dd4118518ad867998dd29b68f8ad *0002-DEFAULT_FILE_ASSOCIATIONS\Directory.reg
-fe830fe6b229397222bba5a999e48bbb8028f30a3a13f2995e4b15a31f790b1d *0002-DEFAULT_FILE_ASSOCIATIONS\wmv.reg
-68a3687e918cb3e18d27dd6e654a6901bacfb22de972c09dfcb8930f4fb1fb59 *0002-DEFAULT_FILE_ASSOCIATIONS\css.reg
+ef3cbd1dd091c996aab1d6f1f420d69367a676aec26f0a5652edd705e03bcb98 *0000-2020-04-APPDATA\create.mklink.cmd
+c740ae13d2e4e3693f62378531e5f81d01f96fb0f2637a78890de2074324faa9 *0000-2020-04-MGRT\Context Menu\Add or Remove Burn disc image Context Menu in Windows 10\MajorGeeks Tutorial Link.html
 7fe4a78930d6b3fcee7b4b6b704113d858c5d0de7f8d179e2954ab7c642da984 *0002-DEFAULT_FILE_ASSOCIATIONS\ico.reg
-d27fe76174027753e90b23f9d6ca332470d9de82ffbbaedb6bb5b5501a87a857 *0002-DEFAULT_FILE_ASSOCIATIONS\cur.reg
+f3f88289a2c3441800ca221733f77f94428b71c2901a81f1307aecedfd2fca73 *0000-2020-04-APPDATA\env.reg
+6598f6f4a5a554c070f5bb21f26a9a890b8984c223066397bf06e585c886e384 *0000-2020-04-MGRT\File Explorer\Add or Remove Delete Folder Contents Context Menu\Remove Delete Folder Context Menu.reg
+7034e1d263a0e0b187f6b8187e534abe6f6ec6262186a034ca31b092b23c91f8 *0000-2020-04-MGRT\Context Menu\Add or Remove Burn disc image Context Menu in Windows 10\Remove Burn Disc Image Context Menu.reg
 3e5f6ee30a9a01afd5908a8c09a5c88ba2e4b8aa93d7fb64303178715b4b4990 *0002-DEFAULT_FILE_ASSOCIATIONS\ics.reg
-0ba9442eb9f18a68b7f252aee09d280a23c56d0691fff63a22315136ea70a796 *0002-DEFAULT_FILE_ASSOCIATIONS\inf.reg
-57f9f9b8dc977039e0bb60ead4ec1f2d8ddcbde5bfa0dabbc0eea5f737b77946 *0002-DEFAULT_FILE_ASSOCIATIONS\xml.reg
+dd6b80efd4257ff62a0e2d82033717025a9b22be2cdcf63b575a2dac2ba5d5d6 *0000-2020-04-MGRT\Power - Startup - Shut Down\Turn Off Monitor Only\Turn Off Monitor Only MajorGeeks.bat
+77aafba54705f052743e146ab70fc27827dc18bfcfbea30852acbe74b2c36bee *0000-2020-04-MGRT\Windows 10 Fixes\Enable or Disable Windows 10 Driver Downloads\DisableDriverDownloads.reg
+4f490fbae84df17ecca1eff7e620ec79e75799e2829cb64f84803efa03daca68 *0001-TWEAKS\0016-Add_Troubleshoot_Compatibility_to_Context_Menu.reg
+b4e7962c47164d4a76f7dc519ad5566909696e4f7c87edba871d0342413e7975 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Photos Context Menu\Remove Edit With Photos.reg
+b3a6cdaf5b3edd54088a715cdd7ed79e2492ab1808c98025d8c2e7e17296052a *0000-2020-04-MGRT\Context Menu\Add or Remove New Context Menu\Add New Context Menu.reg
 e530ae41663245fe6e329907710276035077dcfd718c9e9ae7a1f5626906e572 *0002-DEFAULT_FILE_ASSOCIATIONS\img.reg
-9e72250d5271eaf7c02765b646588c7ff2980b626f6c1bc962c5b089e59f2bf2 *0002-DEFAULT_FILE_ASSOCIATIONS\xps.reg
-f7c89ba74ffd5ee96a97db4efad8aa260e018c015dddda3e7dab3c5b87519060 *0002-DEFAULT_FILE_ASSOCIATIONS\dat.reg
-9a9d919d1c45c6ffb69857d8d00c228a48dbd3a5b838c151ec8c0b5a9172c92b *0006-THEMES\Asus Gold.deskthemepack
-a94c291deab4b768b4845ab038713e33c304a9b6355e1f7ae3950d6f668fe536 *0002-DEFAULT_FILE_ASSOCIATIONS\zip.reg
+812392b839580afc357d256e203dc5f7ebee1d856e56da5e716fab1655d275ad *0000-2020-04-APPDATA\User Shell Folders.reg
+1cec643219a351a7ee477837d29d16522a028d3c5741b9b4c279f7e79d2c4a5c *0000-2020-04-MGRT\File Explorer\Add or Remove Details Pane to the File Explorer Context Menu\Add Details Pane to the File Explorer Context Menu.reg
+297b956b2dd0e327dbbbbb0c26a7ac6dc15ddf5ed80ee42ab17dece7cd801a22 *0002-DEFAULT_FILE_ASSOCIATIONS\theme.reg
+2260e6237f037bb37220f8e6057e672f45b0fa1543fca24233b58d3051c6b5c3 *0000-2020-04-MGRT\Windows 10 Fixes\Enable or Disable Windows 10 Driver Downloads\EnableDriverDownloadsWindows.reg
+c8690fda4d1d7ede81c7ced988acd60998e42984dbedc4a933e12f4b38e7d068 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Rotate Image Left or Right to the Windows 10 Context Menu\Add Rotate Right Left Context Menu.reg
+5baf989729f91cb9964c539cdaad4a588df9ba85e826a8742f4b56b53f8a3983 *0000-2020-04-MGRT\File Explorer\Add or Remove Details Pane to the File Explorer Context Menu\MajorGeeks Tutorial Link.html
+0ba9442eb9f18a68b7f252aee09d280a23c56d0691fff63a22315136ea70a796 *0002-DEFAULT_FILE_ASSOCIATIONS\inf.reg
+1d267b821eb6417f0474e6110e8dd7b08046af8b716af0fe8abdbac8e32feb68 *0001-TWEAKS\0016-Remove_Troubleshoot_Compatibility_from_Context_Menu.reg
+bd8af0d9a033b69a76c694a285fa8ba9387d6862b0166010f80629f4492d3416 *0002-DEFAULT_FILE_ASSOCIATIONS\themepack.reg
+2dcb7425252ed626f2c675172ee67845eba60ea3719496a60f5d09c6ebc1ef60 *0000-2020-04-MGRT\Power - Startup - Shut Down\Turn On or Off Notify me if my PC Charging Slowly over USB Notification\Disable Notify me if my PC Charging Slowly over USB Notification.reg
+e6b6fd19464da7cd3d0c57ac99d4dc9f4eefd07194dee5579fd4242c57badaaa *0000-2020-04-MGRT\Windows 10 Fixes\Enable or Disable Windows 10 Driver Downloads\MajorGeeks Tutorial Link.html
+426738a2598ca42ec56203db7c75167b6b8bd49437a7d9db845425336d0171f8 *0000-2020-04-MGRT\File Explorer\Add or Remove Details Pane to the File Explorer Context Menu\Remove Details Pane to the File Explorer Context Menu.reg
+64cdb01f09224195f5643ffb5d70bd12155f5b98ba5853c982142daefe9b8bbb *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Rotate Image Left or Right to the Windows 10 Context Menu\MajorGeeks Tutorial Link.html
+a3a1f317650c4a5bb8f65dd77371e2b10b5184b8f44c6b3a78ef7777587d406f *0001-TWEAKS\0017-Open_Command_Window_Here_Show.reg
+12dfd2b016b80d366bd92eba82ff44312104829ca20e65fa46b515ca81f5a40b *0000-2020-04-MGRT\Context Menu\Add or Remove New Context Menu\MajorGeeks Tutorial Link.html
+7491361f46e624201a8471f1b4b6e0144177a059e1f441a004c343778fe1095a *0002-DEFAULT_FILE_ASSOCIATIONS\tif.reg
 9302241a26f7cdc0befae6c2ce45189dc0518114e02bbc30b5d063578125fb74 *0002-DEFAULT_FILE_ASSOCIATIONS\ini.reg
+2c4142c1a152d107f5ad99244bfecf3de6ec012b8da95189fa65d35508678e93 *0000-2020-04-MGRT\Windows 10 Fixes\Remove the DTS Control Panel From the System Tray\MajorGeeks Tutorial Link.html
+01f02b5fccb74d32dcc74ca8f5026bd0094ae121da2efeb4a626a658906c3c4b *0000-2020-04-MGRT\Power - Startup - Shut Down\Turn On or Off Notify me if my PC Charging Slowly over USB Notification\Enable Notify me if my PC Charging Slowly over USB Notification.reg
+547968a73f17c0c221ecad7dd8540a05986950027f2cf4ccbca72feae7ea07ee *0000-2020-04-BATCH\Add_Google_Drive_to_Navigation_Pane.bat
+6735a4a64f808b86306662c8df361f4571ee736051e57d407eeca3f29f971702 *0000-2020-04-MGRT\File Explorer\Add or Remove Devices and Printers to This PC\32-Bit Add Devices and Printers to This PC.reg
+e2632ea2322d597c9bbe42232110f4c3f9c6eaed561516ce3f3b12e8619219d5 *0001-TWEAKS\0018-Add Control Panel Category View to File Explorer.reg
+33fe1c919ebe4eb876c988e9d5f27d791a07b244d63d291638f2082a7898e448 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Rotate Image Left or Right to the Windows 10 Context Menu\Remove Rotate Right Left Context Menu.reg
+16b53abdf55cfed774f5a75e26c602957375a702cbd0b3bebdc99e226476fe28 *0000-2020-04-BATCH\clean.wu.cmd
+e48d9630f32a8a6ebaf507e199d06f2d94fd700cc6cb7e25aab9982aa62cc2cb *0000-2020-04-MGRT\Power - Startup - Shut Down\Turn On or Off Notify me if my PC Charging Slowly over USB Notification\MajorGeeks Tutorial Link.html
+4bb36c8dcdbc8a77bfc359a32e90ab3af2644a7ab41d8a66d5df26d3cff2b0eb *0000-2020-04-MGRT\Context Menu\Add or Remove New Context Menu\Remove New Context Menu.reg
+11a70add027e2f461b668467c3b7a44ad603e63c5aafd7f066ca257ae2f7d729 *0002-DEFAULT_FILE_ASSOCIATIONS\tiff.reg
+eb3632f26ee40d63c0c9f55abc390e7f2b104a90d0e5f3be44b47869e7108714 *0002-DEFAULT_FILE_ASSOCIATIONS\iso.reg
+d4b73c264dd6169b718c6a2783764c2655cfbe5923c60c0ab0ac12858eb03c64 *0001-TWEAKS\0018-Add Control Panel Icon View to File Explorer.reg
+1913324bef24c301bc5a3b344852b8c1065d2c41643edd6316d9c9f6bd4158d5 *0000-2020-04-MGRT\Windows 10 Fixes\Remove the DTS Control Panel From the System Tray\Remove DTS.reg
+240db4358a56967648002017dee0f200962c4d77eb8cfe89b56c4910a9c3d5d1 *0000-2020-04-BATCH\clear.sc.ps1
+c6c6402e534ee3c1624f426d6ae6cc6377ee505b103dfaa75ac2adb2a2de979f *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open Command Window Here Context Menu\Add Open Command Window Here.reg
+4c3c1dac63d5b9609fe52b09c93b67716e23bb48fcd49aa539890709a9d3dfaa *0000-2020-04-MGRT\Context Menu\Add or Remove Run as administrator Context Menu\Add Run as administrator Context Menu.reg
+15176ac56ec832c3018f9aad8f08900e82358b4be695f7af60e766597b7e6949 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Reset the Screenshot Index Counter\Add_Reset_Screenshot_Index_Counter_to_Desktop_Context_Menu.reg
+c5e63cadf5a942b93e72e27f69d080344b5f6cf8985d020b9aa8b24ba54358c1 *0001-TWEAKS\0018-Add Recycle Bin to File Explorer.reg
+c11a4b97e64faed6b278ef6130e5769a6e1db3848089ad4dd39546125eeed40f *0002-DEFAULT_FILE_ASSOCIATIONS\txt.reg
+a85eac9f1a4a55046e6b355ce1562dc73e4a9884e01ad0aac6cc546e1d6635d6 *0000-2020-04-MGRT\Windows 10 Fixes\Remove the DTS Control Panel From the System Tray\Restore DTS.reg
+d02482a509658fb56b786f547ab4e88c9a2d439124481eccf960f6b201abc957 *0000-2020-04-BATCH\Clear_Event_Viewer_Logs.bat
+b5e2b7076cc96c95b7a6e8e28e3e37c05f284989bba83aa9b51eec14abdd09de *0002-DEFAULT_FILE_ASSOCIATIONS\jpe.reg
+4e00af3e640dae546371eba6ad663d804112b794acc45dfe5481f26b631448ef *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open Command Window Here Context Menu\Add Shift+Right Click Command Window Here.reg
+89987e0a9ab54a23dce2489ba048c88aa45d1795e5621c4828ec52f536754bef *0000-2020-04-MGRT\Context Menu\Add or Remove Run as administrator Context Menu\MajorGeeks Tutorial Link.html
+bd289dcdc583ceabd476ed21e99ad2349889efee43dbd75cbcb9e61a67e85dc7 *0000-2020-04-MGRT\File Explorer\Add or Remove Devices and Printers to This PC\64-Bit Add Devices and Printers to This PC.reg
+70f69b76b902b12d7ddf2d8e8661f8b4ba8b0149b10c24c28eee897c86588eec *0001-TWEAKS\0018-Remove Control Panel from File Explorer (Default).reg
+ef268542750285f8b5764ba7aafc1251cb3ee8eebee7d7328973c7e01061da6f *0000-2020-04-MGRT\Graphics - Screenshots - Video\Reset the Screenshot Index Counter\MajorGeeks Tutorial Link.html
+cf3ed76bd78c5186f079d1a43b7487ee87f3a69faf1b6d59ac7eb73ef20ee252 *0000-2020-04-BATCH\CLEAR_THUMB_ICON_START_CACHE.bat
+fb4b65413f048d546a0324ec1a5c991be2c82e7e36720c9decad1f1910530b08 *0000-2020-04-MGRT\File Explorer\Add or Remove Devices and Printers to This PC\MajorGeeks Tutorial Link.html
+0ffc6942c5e881cdee642f3a5ced5d1e5b5bf3f371d482a4bfd47c889dc19f10 *0000-2020-04-MGRT\Context Menu\Add or Remove Run as administrator Context Menu\Remove Run as administrator Context Menu.reg
+6bd0f248eda23d089dc7754b4f51c13ab2274bf694983403aea16c98dd5c3a44 *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\Disable Fast Startup.reg
+447280d1fed16e2fa2eda5142b3d8af1d2dc27a7b8684e32cfbce8b18a6bc3f0 *0002-DEFAULT_FILE_ASSOCIATIONS\url.reg
+b9a144691c2f1c2304f37613fcc0858d73e812e1c114a21e28d9fc69dbdc3068 *0002-DEFAULT_FILE_ASSOCIATIONS\jpeg.reg
+5f7534678900f08349165a703e4772b1ae78d3bdf52d13f2f147309ebc90c124 *0000-2020-04-MGRT\File Explorer\Add or Remove Devices and Printers to This PC\Remove Devices and Printers from This PC.reg
+e9027c0b9130a59d220feee66a3411480b8495988ba1405f0464d987404449e7 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\Add Secure Delete to Context Menu.reg
+ff49dc05a78b2905de1b38f316035a3a26d80ae1a7998bca72191d84288d1ced *0000-2020-04-BATCH\Clear_Windows_10_update_history.bat
+992edb3ffe04ffbcb4d44f9419b276358546a4834d41a9e626cd66996c801aa2 *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\Enable Fast Startup.reg
+4db84ab9958a9c7cf1f1c2b7f1827ac3e84db93fed6a9b992c40f8dc9287d961 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Reset the Screenshot Index Counter\Remove_Reset_Screenshot_Index_Counter_from_Desktop_Context_Menu.reg
+fbd197dc5986f820f09ac4474c62ca374fb410deb12c167e9133d1b9c76c1ea9 *0000-2020-04-MGRT\File Explorer\Add or Remove New Folder Context Menu\Add New Folder Context Menu.reg
+98439478b4428b1ac562dec8e75b659755aaffe5c7d42b5c56b8d6ef2bac0dcc *0000-2020-04-BATCH\Delete Windows_WS and Windows_BT.bat
+406baf36a38e0355c3f770117ab3e4427f1951bbc322ba4062c7b58be4a286b5 *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open Command Window Here Context Menu\MajorGeeks Tutorial Link.html
+91be6a0f0035f6a04b3ca5092084bc9d6ec85118c22ee355eae579dfbf7e0ef3 *0001-TWEAKS\0018-Remove Recycle Bin from File Explorer (Default).reg
+12bfcf1dc6c628d9ebac00676a602fe94865b11bc211bfcc29a8723c9593d85e *0002-DEFAULT_FILE_ASSOCIATIONS\jpg.reg
+f8505f86e77011eddb777a6d53cea323b874b92fe0776a089dd059c740c8c6d0 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\Add Secure Delete64 to Context Menu.reg
+3588c47bbc680afe7c5cfc1f3593dd06e2f41e91e08d45dd56296306c82c3f41 *0002-DEFAULT_FILE_ASSOCIATIONS\vbs.reg
+e593c13065350a293b044fd21e25b3ca567d53c002b4ebadae071d97830b448a *0000-2020-04-MGRT\Graphics - Screenshots - Video\Reset the Screenshot Index Counter\Reset_Screenshot_Index_Counter.bat
+e80dfa497836a4a00fa122712155eca4bfb19b9fb62ac6907083f14785655dac *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\MajorGeeks Tutorial Link.html
+d4ccaa6c90ba7fa58254f7b40d47c1f21423b1eb241aa3f46f8e14f585f3022f *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open Command Window Here Context Menu\Remove Open Command Window Here.reg
+bc2006d83f8ec221eb198d53d9dfdcc617f110ec83dd57be1bd47ca93b575ea0 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\MajorGeeks Tutorial Link.html
+5447a77695ee0a66af9698aeb00cc14e21bb389499d702a843982692f231b062 *0001-TWEAKS\0019-Add Recycle Bin to File Explorer.reg
+969cc5ad0fa7f9e6e52167143d7cf8d338a5b9612e59201605af635eb8233b46 *0002-DEFAULT_FILE_ASSOCIATIONS\js.reg
+f174bb10e6b8ed88f230f1e3aac1d0bd569ce5554f2a5a00a50d0668d3af967d *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\Readme.txt
+469eb65fdb7f9c6803b1ca3951eecca0ebdc684974d44662306b3df3b8a07160 *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open PowerShell Window Here as Administrator Context Menu\Add Open PowerShell Window Here.reg
+6b033895b36186d3a025d9b33bb049dff32f3720047ca4100989617d01d03d2c *0000-2020-04-MGRT\Graphics - Screenshots - Video\Restore Windows 10 Photo Viewer\MajorGeeks Tutorial Link.html
+63702fd0b3fcb41fe681129a9f8d7ed23b7d4ba1a3237089024025f772152de5 *0000-2020-04-MGRT\File Explorer\Add or Remove New Folder Context Menu\MajorGeeks Tutorial Link.html
+f2d7aaa71d0827cb7fa4a7959ab61527867e96b935510087dec5073e39285cb5 *0001-TWEAKS\0019-Remove Recycle Bin from File Explorer (Default).reg
+0760390002b0c1b0e8de5875cbdb2102710265501965b3deb78a6930536311e9 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\Remove Secure Delete From Context Menu.reg
+902438642237636c255fc5547e0c2f1dcc273ff3095696b2247db49fe7a62644 *0002-DEFAULT_FILE_ASSOCIATIONS\vhd.reg
+1eb0d79789df573b0949646f6ce9e90d4f44c1535c272a3547860146e8f2f019 *0002-DEFAULT_FILE_ASSOCIATIONS\library-ms.reg
+9a3eb40795eb7f2f9a886d4170b1e07cf064ae9b93f48be3c0c09eb1a6be319d *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open PowerShell Window Here as Administrator Context Menu\Add Shift+Right Click PowerShell Window Here.reg
+4187cba990d22425f429cf1d136abf568845c612ffd31c62bee37ecf8707617e *0000-2020-04-BATCH\netsh.tweaks.cmd
+61912e6b94974fb21397666b12cadae709e5dad37dee9afd62afd96e566049fd *0000-2020-04-MGRT\File Explorer\Add or Remove New Folder Context Menu\Remove New Folder Context Menu.reg
+df3d7c609c89f48796f7a639743cda119ac470e58561a94377324b696945e606 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Restore Windows 10 Photo Viewer\Photo Viewer Registry Associations.reg
+1ee3c09de4d024d91ba7a1ea359787b7a8eba4e5263cd708242a552385fd17ed *0002-DEFAULT_FILE_ASSOCIATIONS\vhdx.reg
+fd14fefe60d02a841c52c680f6e2a95fad74381c215b564dc5fdd7f7afd6e9c3 *0001-TWEAKS\0019-Remove_Compatibility_tab_from_properties.reg
+1d7285d03205c15b78aa272147f44410ffd5d6e6f6cf0cffb83b73b7c246d232 *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open PowerShell Window Here as Administrator Context Menu\MajorGeeks Tutorial Link.html
+dfd03f876eb7c3ad47e84bb35a400ad272046cd6f60682b8aad7c0af97a42a71 *0000-2020-04-BATCH\onedrive-del.cmd
+18df11207d2909aa90815a4c9de0a3079e2003ee188f1aa0bf89eb164d16c987 *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\Turn Off Fast Startup.bat
+8213238b1015c70551f14197c5a56789dfdfffbaf7a764d25769227bd59259f9 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Restore Windows 10 Photo Viewer\Restore the Windows Photo Viewer.reg
+ca94279684b911452f83b8649da52ab6de2b9395ea90b99b6641d59f8d192706 *0002-DEFAULT_FILE_ASSOCIATIONS\lnk.reg
+3ae8437a8db13a399c0ddc79dd4aa2be7692f9745c1db246346c9c2a61ef1acf *0002-DEFAULT_FILE_ASSOCIATIONS\wav.reg
+9a4bafb6d4e9665906e34217eec5a437c416845b861c6d1775f16a4db8d6f097 *0000-2020-04-MGRT\PowerShell - Command Prompt\Add Open PowerShell Window Here as Administrator Context Menu\Remove Open PowerShell Window Here.reg
+650975f338207bff09edd8fc9ec12e3c4b9f670fee5d2261883097456066a898 *0000-2020-04-BATCH\Rebuild_Font_Cache.bat
+f53839cb474d0e4c93e732e76fd35c1fa166049a56358dbc3340873fd72e9ecf *0000-2020-04-MGRT\Graphics - Screenshots - Video\Stop Windows 10 From Automatically Deleting the Thumbnails Cache\MajorGeeks Tutorial Link.html
+1a5c2b9f6975012cc0b7bd12b415536a3ab35c51588c8fa3e5fee2565d7b1f74 *0000-2020-04-MGRT\Windows 10 Fixes\Turn Fast Startup On or Off  in Windows 10\Turn On Fast Startup.bat
+1c396fa4a78e7e20842f49eb8cb4254ff1bcf5c6d5793c6350bbe2b774860903 *0002-DEFAULT_FILE_ASSOCIATIONS\log.reg
+8967dcfbf742718e64ccd048160ef7901bf11bfb298ee554358522a80cb96e7f *0000-2020-04-MGRT\File Explorer\Add or Remove the OneDrive Shortcut in File Explorer\MajorGeeks Tutorial Link.html
+e4ef7980c66778592f612d8aef2e044305e5fc75a2e78c78b79be5342987b9f6 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Stop Windows 10 From Automatically Deleting the Thumbnails Cache\Stop Windows 10 From Automatically Deleting the Thumbnails Cache.reg
+ea8ad376af6821182e258f3d38da293472044b2b93b062595c72b998a4ed2bad *0000-2020-04-BATCH\Reset_and_Clear_Recent_Items.bat
+7a378e6a81f784c1df1a7833f2f073aadfa82d586e73a01c9c7120af96c5a12e *0000-2020-04-MGRT\PowerShell - Command Prompt\Switch Between Command Prompt or PowerShell on WinX Menu\Command Prompt On Win+X Menu.bat
+6a89d23f2574dfa45c9ce09c2dee6d09a935c66f74bfe6c762c25fe9b36dcc46 *0002-DEFAULT_FILE_ASSOCIATIONS\wma.reg
+7d2f9455b8c7279091fac17bfb07652e06f1941f82d9521598c5ffc0e8b13dff *0001-TWEAKS\0020-Add Control Panel Icon View to File Explorer.reg
+546ab6f826256daaf00c557e34341fd58dc6d43e9a736ce403f42a5f9e90885a *0000-2020-04-MGRT\Windows 10 Fixes\Turn on and off the Text Cursor Indicator in Windows 10\Disable Text Cursor Indicator.reg
+9b288b444f7c2f8ea2e86447ed3f7cf05c80d97a2571f4ecd6dc54ac863dc0ab *0000-2020-04-MGRT\File Explorer\Add or Remove the OneDrive Shortcut in File Explorer\Remove OneDrive in File Explorer.reg
+33d581b01c44558760a0470bc333e69e24d5d0a6627653be1d8f8bf495657df9 *0002-DEFAULT_FILE_ASSOCIATIONS\mailto.reg
+1208d8d9b925704faf0b4a074fddc024fcc1ed8732b66e9d6bbd7845bfe8de5a *0000-2020-04-MGRT\Graphics - Screenshots - Video\Turn on or off Fix Scaling for Apps That Are Blurry in Windows 10\Disable Fix Scaling for Apps for All Users.reg
+6ce946885004d5161fcc2d2cdb3d9f78b858a327222723d778dce3008a949f59 *0000-2020-04-BATCH\Reset_Notification_Area_Icons_Cache.bat
+4a3b381824b51e137f4241e6df2519147d28f6e3c8fd57847ec3bcf772931d37 *0000-2020-04-MGRT\File Explorer\Add or Remove the OneDrive Shortcut in File Explorer\Restore OneDrive in File Explorer.reg
+fe830fe6b229397222bba5a999e48bbb8028f30a3a13f2995e4b15a31f790b1d *0002-DEFAULT_FILE_ASSOCIATIONS\wmv (1).reg
+b1ef71eb3c9dfcf155aea3f945fa338604aefc0e593df4daba654d09f2905ecf *0000-2020-04-MGRT\Graphics - Screenshots - Video\Turn on or off Fix Scaling for Apps That Are Blurry in Windows 10\Enable Fix Scaling for Apps for All Users.reg
+bef8421cc2f3f7fefa1f2ee99186399a449e2e29bde597d1bedef3d552d1bc7d *0002-DEFAULT_FILE_ASSOCIATIONS\mov.reg
+ead501d1afbc7cf48228da19f3853a83fab9786a994fdbbeecd913e42b9da352 *0000-2020-04-MGRT\File Explorer\Add or Remove the Recycle Bin to File Explorer Navigation\Add the Recycle Bin in File Explorer.reg
+da2c69489a92a89336bb2588075d22aad91e87182a0a382c0afb9340514e1800 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Turn on or off Fix Scaling for Apps That Are Blurry in Windows 10\MajorGeeks Tutorial Link.html
+517c0388fed1209e6f39de6ed602ebd06bb28f345d558e2d86ce25befe0a7141 *0000-2020-04-MGRT\PowerShell - Command Prompt\Switch Between Command Prompt or PowerShell on WinX Menu\MajorGeeks Tutorial Link.html
+fe830fe6b229397222bba5a999e48bbb8028f30a3a13f2995e4b15a31f790b1d *0002-DEFAULT_FILE_ASSOCIATIONS\wmv.reg
+9cc9d7ec8ea89fc562631b161de1d2c97455aa46c3274587346515faddb560ae *0002-DEFAULT_FILE_ASSOCIATIONS\mp3.reg
+a2b46d48ace74a94962279eea0daf9a17a66e3e629222d53e407e46797c6579b *0000-2020-04-BATCH\Reset_Reregister_Windows_Update_Components.cmd
+a96a9406722f3c2cd6de6733edf943239a9ce3867a41543be5e4c4acd9459faf *0001-TWEAKS\0020-Remove Control Panel from File Explorer (Default).reg
+77a9b2d61f818d64d26b6789f3afe79827425461c1687ce57d885eb9bfe000e1 *0000-2020-04-MGRT\Windows 10 Fixes\Turn on and off the Text Cursor Indicator in Windows 10\Enable Text Cursor Indicator.reg
+11cabb28de3992ed3231a3343b2495dcda3da4b1f36c8e44b33118874bfa4823 *0000-2020-04-MGRT\File Explorer\Add or Remove the Recycle Bin to File Explorer Navigation\MajorGeeks Tutorial Link.html
+8ddb788ad1804f540a37abc313b64b09ba7d2ff3558c327309ceb7a5d7e0de19 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Turn on or off Fix Scaling for Apps That Are Blurry in Windows 10\Restore Default Fix Scaling for Apps for All Users.reg
+03e3345360edb21995219877a13c7269579424c99f8c050792b00f95f7fa0028 *0000-2020-04-MGRT\PowerShell - Command Prompt\Switch Between Command Prompt or PowerShell on WinX Menu\PowerShell On Win+X Menu.bat
+6a71fe8c8c3a085c9923ec99842db78e0aae953a327e232c69ad6ea8f8999342 *0001-TWEAKS\0020-WiFi-VirtualAdapter-names.reg
+2024f7d7aa74766c83a7ca248138cf5944799fd51bd8ca02b371a4dffb7c71b2 *0000-2020-04-MGRT\Windows 10 Fixes\Turn on and off the Text Cursor Indicator in Windows 10\MajorGeeks Tutorial Link.html
+9fbe600f0fc8a46119852f344c65743ce07b8751bc7361bc9d429e0b7eb24b7c *0002-DEFAULT_FILE_ASSOCIATIONS\mp4.reg
+2992fcc9d243842f910f5e4ebe1f2d0add9ca3de5892edca0c56ac0c82317d74 *0000-2020-04-MGRT\Miscellaneous\Add Group Policy Editor to Windows 10 Home Batch file\gpedit-enabler.bat
+81a0af349e2a333f9d6fd5f474ca804d964ae2c934b8e847fa4752399da7253f *0000-2020-04-MGRT\readme or dont.txt
+57f9f9b8dc977039e0bb60ead4ec1f2d8ddcbde5bfa0dabbc0eea5f737b77946 *0002-DEFAULT_FILE_ASSOCIATIONS\xml.reg
+15a345ac3bd3ef911aff20a2e3915630b44ce754d7bca5e71f15e6ec4ec9f2b6 *0001-TWEAKS\0021-Add_Open_command_window_here.reg
+4ce431f47cffb3a6faa2d59c2b8a49c06026ba37997a123bac9e4b622079f36b *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add or Remove Scan with Windows Defender Context Menu\Add Scan with Windows Defender Context Menu.reg
+5e62c42f6be279775df02736075c0da4b7123a7c4f05fc7fafd8f975cb72d85c *0000-2020-04-MGRT\Miscellaneous\Add Group Policy Editor to Windows 10 Home Batch file\MajorGeeks Tutorial Link.html
+ebf6355a5b90d89edbdc1c3634cae07e6721400cb7eaa0fe03abce1754ee04c3 *0002-DEFAULT_FILE_ASSOCIATIONS\mpeg.reg
+ee507836604053a776fdc0e00680a1efc04cc5e427e727d09fc1bf3373cbc5cb *0000-2020-04-MGRT\Search\Move the Windows 10 Search Box to the Top or Bottom\Windows Search Bottom.bat
+c36d2738d9cf325805c2e5be8c5666af327b93d788e8adeda7ed3ab920649f83 *0001-TWEAKS\0021-Add_Open_command_window_here_as_administrator.reg
+01a4bfe659075fa26b3f2581e7a37be8daaba438011da932d5ff07fc6c00b2de *0000-2020-04-MGRT\Miscellaneous\Add or Remove Maximum processor frequency\AddMaximumProcessorFrequency.reg
+cf2c2e61340c68c8d1b2cce0daa5a8cc11a24fbb65ca9ba21afa883ee7f7df0b *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add or Remove Scan with Windows Defender Context Menu\MajorGeeks Tutorial Link.html
+36961325d527d3a2477e4fe1dbb5e80b87a11ca4dbcf84d039846e17ab401dda *0000-2020-04-MGRT\Search\Move the Windows 10 Search Box to the Top or Bottom\Windows Search Top.bat
+66fe3197b2d4a905c088628bf0b88b122a6b8d1c2838bdf8ad6bebe5f104f666 *0002-DEFAULT_FILE_ASSOCIATIONS\mpg.reg
+218113263afa1d0d54c04f617d1b076a064904e56d0e6dc3d6de4cedceafae7b *0001-TWEAKS\0022-Hide Scroll Bars In Store Apps.reg
+746de8e02f1e64a707ce060a7d851b5d014698ca8692bd7aa945b40e06b01a07 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\sdelete.exe
+db515c5009ac8763508cbdc0cd61ca5a3e3dbefdb7abe7bb0ad918658a2869c0 *0000-2020-04-MGRT\Miscellaneous\Add or Remove Maximum processor frequency\MajorGeeks Tutorial Link.html
+1d6c8640a78697268667ef6e8a20f2424c3d761d4a3c79764c6112c16178c03a *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add or Remove Scan with Windows Defender Context Menu\Remove Scan with Windows Defender Context Menu.reg
+4a1a2cbfa2950aa5241363d188c4dd961d247a9d3349112b33ad099a84eccea8 *0000-2020-04-MGRT\File Explorer\Add or Remove the Recycle Bin to File Explorer Navigation\Remove the Recycle Bin in File Explorer Default.reg
+e459f9738e0b36414788438fc88f694add51dfe0f2a0569cc21c31f4c1bd7ef8 *0000-2020-04-MGRT\Sound\Enable the Old Volume Control in Windows 10\Default volume applet.reg
+bb45a88ce7db77dc970ce736afe36cab4a3117ceedc25ffd15c35a264100ae6a *0001-TWEAKS\0022-Make Scroll Bars Visible In Store Apps.reg
+4df010173d631642cf08a2ae8138c478d7685a79d522d025a52cba68edcf80bd *0002-DEFAULT_FILE_ASSOCIATIONS\msc.reg
+9e72250d5271eaf7c02765b646588c7ff2980b626f6c1bc962c5b089e59f2bf2 *0002-DEFAULT_FILE_ASSOCIATIONS\xps.reg
+e2ec25e238aa994054a167ea6c1c2b478db4909c19876ad4cec84f9b7ca29a54 *0000-2020-04-MGRT\Miscellaneous\Add or Remove Maximum processor frequency\RemoveMaximumProcessorFrequency.reg
+3d4a4c6bec5ee1fb3997a99ecd20e45118817b8cbff90efddac73a9ed6c8faf3 *0000-2020-04-MGRT\File Explorer\Add or Remove User Folder in File Explorer Navigation Pane\Add User Folder in File Explorer Navigation Pane.reg
+e870da849d3c577a114b86b12c7aeb7ffe7223b285aa4d8ed2b703981aeb2a74 *0000-2020-04-MGRT\Sound\Enable the Old Volume Control in Windows 10\MajorGeeks Tutorial Link.html
+6069f2353a16618e2635047c4c8f9505b3c2898d98f8c943cfdbe1b7b9f4d369 *0001-TWEAKS\0023-Microsoft Edge - Prevent Pre-Launch.reg
+586e12f2079faa895d74b11440f98d35df6e95e668e6b9c1cc9a0dc0fbeb3330 *0000-2020-04-MERGED\advert.reg
+a0c2e745293ccbbb87be39445da76146263c6c7ae41c362f7c1814d69fdeeb1a *0000-2020-04-MGRT\Miscellaneous\Automatically Back up the Registry\Disable Auto Registry Backup.reg
+5be8cca3df5ec43e5f610a03aead8b54e4be09330177ddcb44675a5ff693b7d8 *0002-DEFAULT_FILE_ASSOCIATIONS\msi.reg
+c3ca6cf5fd4118ec1ac11b0fc51fdccfa20694d87fe18d38a3cc1577b3f60f0b *0000-2020-04-MGRT\Sound\Enable the Old Volume Control in Windows 10\Old volume applet.reg
+24faf4e3b182186a30380a291db31a3b2ed1965f420d5dffa45797ca86cba4c0 *0001-TWEAKS\0023-Microsoft Edge - Prevent Tab Pre-Loading.reg
+73d700bf84f0c26ed7e44c3deb8c43c009e9ae7562c86b534597c8b78dd8f245 *0000-2020-04-MGRT\Miscellaneous\Automatically Back up the Registry\Enable Auto Registry Backup.reg
+c050453c3507b4620a13fa5b78b52a238ab6677fab55b44c1bcdbeed71d1c3fb *0002-DEFAULT_FILE_ASSOCIATIONS\msp.reg
+5dece8fda9bc8657fcf8905b1ec2f23ee4d4943698c5915a311632bc5de48492 *0000-2020-04-MGRT\Sound\Turn Toggle Key Sounds on or off\MajorGeeks Tutorial Link.html
+e88b701bdf804fa59a6062522d97f7c555ab0308350fcd8b19f4e9302c8acba7 *0000-2020-04-MGRT\File Explorer\Add or Remove User Folder in File Explorer Navigation Pane\MajorGeeks Tutorial Link.html
+0f56938e9d3bc0ad7011f485010af08ab28243ef6569c38bf6fcc5f647d0e2e9 *0001-TWEAKS\0024-Remove Previous Versions Option from Context Menu.reg
+5e2250adacad13b97ac79341cb371362d7413d76928f8eef0d78fcc8558b4645 *0000-2020-04-MGRT\Miscellaneous\Automatically Back up the Registry\MajorGeeks Tutorial Link.html
+d95c94a73b2a1fe12f3a5263fe62735202fcc5dc5a876dab7fd666a136c93e5e *0000-2020-04-MERGED\del-paint3d-menus.reg
+bc9b2ad340eeca57e0a7786769be95517b88e4002d0ec42b4fb68c086e9e1ee1 *0002-DEFAULT_FILE_ASSOCIATIONS\msu.reg
+29c3e28e9660c32c939a889a2131f765d2f0fa5799944dd5296ed18d4b5acbb7 *0000-2020-04-MGRT\Sound\Turn Toggle Key Sounds on or off\Turn Toggle Key Sounds OFF.reg
+6ce3d49002332ce16d30d8269226ebd28ab342e1838bb80f96c94f3a027c3128 *0001-TWEAKS\0024-Remove Previous Versions Tab from Properties Window.reg
+67082079b73c858861ab4513645dcd7a7d50e5349730ff6865eb37bd7f6dd748 *0000-2020-04-MGRT\Miscellaneous\Enable Disable Clipboard History\Disable Clipboard History.reg
+940ead25b73e23968c612adbe7581c32a74364290ecb74c1353ccd575992dcda *0000-2020-04-MGRT\File Explorer\Add or Remove User Folder in File Explorer Navigation Pane\Remove User Folder in File Explorer Navigation Pane.reg
+53abab3f6f54c9643c911d202ceddad7311110bf07c26553bff9a9328d110396 *0002-DEFAULT_FILE_ASSOCIATIONS\Open_with-Choose_default_program.reg
+eba9f0f581a45b79d1adb3cfd7d7f0bc7a706584d9decfc6dc8d13d754dada3a *0000-2020-04-MGRT\Sound\Turn Toggle Key Sounds on or off\Turn Toggle Key Sounds ON.reg
+07ea49fd94239e0ff5b52b3357fcead34ad127aa2aba72f11ce505b4be89cac6 *0001-TWEAKS\0024-Restore Previous Versions Option in Context Menu.reg
+021692f699e58f988f2ab69e15aca87be08e908a4ffe6b2ac25e1720ef754a5a *0000-2020-04-MGRT\Miscellaneous\Enable Disable Clipboard History\Enable Clipboard History.reg
+1bd46b5148515448f4500dbc3f5923e79524f1fc46dcbb5a3b3e945c14d56c7b *0000-2020-04-MGRT\File Explorer\Add Unblock File Context Menu\Add Unblock Context Menu.reg
+a94c291deab4b768b4845ab038713e33c304a9b6355e1f7ae3950d6f668fe536 *0002-DEFAULT_FILE_ASSOCIATIONS\zip.reg
+1f18444119a7cdaf90cbf394ab45bed9e5fed9872526dd36bdbf9108ffe663c5 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add Windows Defender Antivirus to the Context Menu\Add Defender Context Menu.reg
+949276ffd7e2ab04bd877c47f44aaf3658798bd072ac0bc88bf08ce66262a7d5 *0002-DEFAULT_FILE_ASSOCIATIONS\pdf.reg
+09ecc07aac52334437409c3788df51d31ecfe3ac9b6c775369afe4a643eb863f *0001-TWEAKS\0024-Restore Previous Versions Tab in Properties Window.reg
+1d1130b1faca754b375518f7a4f15b9bf03d5ecc321c69ccd10432bc6c68efdd *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add Windows Defender Antivirus to the Context Menu\MajorGeeks Tutorial Link.html
+cf9cd846c31c077daf012b54f440def6e3211f155e5f6beb25ddbb379e3759ce *0000-2020-04-MGRT\Start Menu\Reset and Clear Frequent Places and Recent Items\MajorGeeks Tutorial Link.html
+f8a7ab95d15ad943f4e5c50c3b9f786fedb4d025e1dccc83e8da40f3e0d556d8 *0001-TWEAKS\0025-Turn_Off_SmartScreen_for_Microsoft_Edge.reg
+3507f7b199a7ff283df9f1b0e5b797d63a8c2544146108c6899e406ae227a204 *0003-DEFAULT_SERVICES\W10-Services-Defaults.reg
+34b0bd8362bcfaef135ff32ab8178f66b444c1d6276d758140648169b96e33c9 *0002-DEFAULT_FILE_ASSOCIATIONS\png (1).reg
+7000c8b4350b4ef760ae018a39242dbd51efd724975cd8893d6bba8b3595970f *0000-2020-04-MGRT\File Explorer\Add Unblock File Context Menu\MajorGeeks Tutorial Link.html
+0efbaaa13554afe3ae3362857899bbebbbaf757609475a745ca2f9257f02d780 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Add Windows Defender Antivirus to the Context Menu\Remove Defender Context Menu.reg
+f33951f299a141c4cffe8280bbcef5d57b89ebbda1323f568876f021d4c250a7 *0000-2020-04-MGRT\Start Menu\Reset and Clear Frequent Places and Recent Items\Reset and Clear Recent Items.bat
+8fff0d0adc8077f2b3ce076c066229539bd7dc63527606fafd112870b6d6dd66 *0001-TWEAKS\0025-Turn_Off_SmartScreen_for_Store_apps.reg
+34272077a380bf3b485c5fb681ca6a682906b955a0342764ea2572cb2653e65a *0000-2020-04-MGRT\Miscellaneous\Enable Disable Clipboard History\MajorGeeks Tutorial Link.html
+caad9c35394c0e14e6446a4d1435c6339eafa5876ea0e37d5486d79b7605f93c *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Network Scanning in Windows Defender\Disable ScanningNetworkFiles.reg
+f8207b10f6249b45cfda30739b0bf3fdd5e2791ab03e73a1ee2f93e7314ffbb4 *0001-TWEAKS\0025-Turn_SmartScreen_Off.reg
+621e9def77886fa37cb7007c38e04c6f466994045f2a8d4993122321baf175c4 *0000-2020-04-MGRT\Task Manager\Add All Tasks or God Mode to the Control Panel\Add All Tasks or God Mode To Control Panel.reg
+411ff04c01725d18ec17ae0f4f044997bce2f942d48dbf1c34204a0396b2db4a *0000-2020-04-MGRT\Miscellaneous\Reconnect Network Drives Notification\Disable Could Not Reconnect All Network Drives Notification.reg
+32c41e7d4a7184041459de0c0ba730ce49b36965fd0ec86870409419ce7372c8 *0000-2020-04-MGRT\File Explorer\Add Unblock File Context Menu\Remove Unblock Context Menu.reg
+71533f02d78761d61d1d7c46d5fdb2ed352973b8c3e7a8bc3538be301914c668 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Network Scanning in Windows Defender\Enable ScanningNetworkFiles.reg
+a03c5c94f39188915d6aa600303249a97df6a15eae75ec054a0697d636e61770 *0001-TWEAKS\0026-disable_wu_update_drivers.reg
+34b0bd8362bcfaef135ff32ab8178f66b444c1d6276d758140648169b96e33c9 *0002-DEFAULT_FILE_ASSOCIATIONS\png.reg
+268433675223145a3b508399e9430535a0cc5d5db78756360d67c3d54b305bf3 *0000-2020-04-MGRT\Task Manager\Add All Tasks or God Mode to the Control Panel\MajorGeeks Tutorial Link.html
+0a43fdedbf4bacc5528b4e7dfb1220dbb294eb582036c8f3b578ab9bb73d2169 *0000-2020-04-MGRT\Miscellaneous\Reconnect Network Drives Notification\Enable Could Not Reconnect All Network Drives Notification.reg
+639a685da26e1b481b46ddae6feb598205828e4567c5d5b292f49226f94ec61f *0003-DEFAULT_SERVICES\W10-Services-Defaults.txt
+f38fdc4aee5fa914bbd4c987863f124cfef26075a5ec868cd9d2307c28b53ddc *0001-TWEAKS\Disable_acrylic_blur_effect_on_Sign-in_sceen_background.reg
+cbbcb4148c56c1bed4524ba51de29040ec6f6a55b3e72e8af68df5d0bd0ea1d4 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Network Scanning in Windows Defender\MajorGeeks Tutorial Link.html
+feec1457836a5f84291215a2a003fcde674e7e422df8c4ed6fe5bb3b679cdc87 *0000-2020-04-MGRT\Context Menu\Add Secure Delete to the Context Menu\sdelete64.exe
+05163c2ab445e3cbf6629830f10a3a054929a8224a8cbb1fdebab6a82b391c8a *0000-2020-04-MGRT\Miscellaneous\Reconnect Network Drives Notification\MajorGeeks Tutorial Link.html
+5268820868ab56991f1ce92ca05988132f3fabe56128b4d1fe097a473d6dac65 *0000-2020-04-MGRT\Task Manager\Add All Tasks or God Mode to the Control Panel\Remove All Tasks or God Mode From Control Panel.reg
+46fdbf2e9ffdfc20f8d4dada2e18d751d1c8a0b67592ddc8190d4d188140122a *0000-2020-04-MGRT\File Explorer\Disable or Enable Thumbnail Previews in File Explorer\MajorGeeks Tutorial Link.html
+ca1f98d9be3621cd5c8d760c5ee776989c667da2026c482378276f823a4ccfff *0001-TWEAKS\Disable_Pre-launch_Microsoft_Edge.reg
+0fd2cc420755d345671ce2e242c282134cb2c752fdc5a93396457debed1185af *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Possibly Unwanted Applications Protection\Disable_Windows_Defender_PUA_protection.reg
+824ac57e6bd6dd6c22a7686462e5b4879257d5f2b543cb5fafb8b3a687749147 *0000-2020-04-MGRT\Task Manager\Reset Task Manager to default\MajorGeeks Tutorial Link.html
+1bf393bb9be91ddc94bed88edbefee5c09c317d0aa034ebdc24e78a05ddcc97c *0001-TWEAKS\Disable_System_Restore.reg
+82d65419ab2197a1f100e57d9bdb9e5e6c0410b4ecea757d8ce0973cf9eb3694 *0000-2020-04-MGRT\File Explorer\Disable or Enable Thumbnail Previews in File Explorer\Turn Off Thumbnail Previews File Explorer.bat
+c8de19454c9d0af4635242a752eccdfb9e5e64091b4eb44bc459469a68d50048 *0000-2020-04-MGRT\Miscellaneous\Turn Off Shortcut Name Extensions\MajorGeeks Tutorial Link.html
+8780abc67965578430507adf65adc16148513c3c6e0b11e70cf95b36e5e84af0 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Possibly Unwanted Applications Protection\Enable_Windows_Defender_PUA_protection.reg
+f408829acf8a773b455ef8042fe9da507500af178926559bdb0681ae536e2294 *0000-2020-04-MGRT\Task Manager\Reset Task Manager to default\Reset Task Manager to default.reg
+ab3c1be7e6a1f03d5a09a9aa124bad4e8bbc90bbe5f4728253332affbf8e663b *0001-TWEAKS\Enable_acrylic_blur_effect_on_Sign-in_sceen_background.reg
+bda8f445b2cf61d000f0c6955639effd3c40797b5ccd7fdd25ac0a137872990e *0000-2020-04-MGRT\File Explorer\Disable or Enable Thumbnail Previews in File Explorer\Turn Off Thumbnail Previews File Explorer.reg
+6af6ea16747ba928ed68852c5929426b2cfbf791a9c9bbcf33b63bb8e2c8fae8 *0003-DEFAULT_SERVICES\W10-Services-Defaults.xls
+0e55c0dbb2b75f360a7f54f94861a756e369b9c874c131f0faa3f65b08370525 *0000-2020-04-MERGED\DFLT.reg
+5d6d0160be3bb8ba2b06d27bd7892e79b8f8d63064a91b96b3dcc60dc1ef8a9e *0000-2020-04-MGRT\Miscellaneous\Turn Off Shortcut Name Extensions\Turn Off Shortcut Name Extensions.bat
+1f0a197f88d0196bb89508dba6466b47f7429218bf1fefafc400f34a6cc23472 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Possibly Unwanted Applications Protection\MajorGeeks Tutorial Link.html
+b3dd3acd94e8b0cfc74ab94610fe08327c096db282ee75c87a8cae6dfcd43d6a *0000-2020-04-MGRT\Taskbar\Add or Remove Pin to Taskbar Context Menu\Add Pin to Taskbar Context Menu.reg
+b328e81ee52ec740eb35799afdf1475fdbbd59e1a845973dc8f84f48e136ef08 *0001-TWEAKS\Enable_Program_Compatibility_Assistant.reg
+9d186552bf3525c3d567e3588ef3a999b2e8649c5ba91a1886919c9852074f26 *0000-2020-04-MGRT\File Explorer\Disable or Enable Thumbnail Previews in File Explorer\Turn On Thumbnail Previews File Explorer.bat
+b9d0d8d13d7bd66b48c63c81941ae34f8ab16e41d4678740393d50faae181c6d *0000-2020-04-MERGED\Disable App Launch Tracking.reg
+4af07f9b3a51bdbddba640f0fe5471247015b387f4971b02d4456639246e385e *0000-2020-04-MGRT\Miscellaneous\Turn Off Shortcut Name Extensions\Turn On Shortcut Name Extensions.bat
+dde5f56cb14f9a8813b727a6e27d9a8e0fc1f070f59af8952ad400eb9e124e6c *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Enable or Disable Possibly Unwanted Applications Protection\_Visit MajorgeeksDotCom.website
+90e9db788b0a50dfdc9fce200c4cf74a2956a8657a34e7013d5e9dc162df074f *0000-2020-04-MGRT\Taskbar\Add or Remove Pin to Taskbar Context Menu\MajorGeeks Tutorial Link.html
+021f05b056314692f00f5d614b01a559c92f7ad40e1ca29be4727de599bc67e0 *0001-TWEAKS\Enable_Steps_Recorder.reg
+261ab36c1ba7a9738a01ba4a215f0f9e5a15c3a8503e5b089f426b830c957204 *0000-2020-04-MGRT\File Explorer\Disable or Enable Thumbnail Previews in File Explorer\Turn On Thumbnail Previews File Explorer.reg
+7651dff10f67fda3ceba6d68763c12c48972f4b6bc1d0827f15490a7cafb420e *0000-2020-04-MGRT\Power - Startup - Shut Down\Add or Remove 'Turn off hard disk after' from Power Options\Add Turn Off Hard Disk Power Option.reg
+3037a5708f1c5eebc41e00313f3ca741bc6a99a45e4c7c08cb60f2f1c63372b3 *0000-2020-04-MERGED\Disable error reporting.reg
+2a94cdc45505fb8b4dec60a611201aa28e729d0972ab3c0bbc9337b582ec7026 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Hide Firewall & Network Protection Windows 10\Hide Firewall & Network Protection.reg
+c27e577b97035f5f9699e958656002866650e65a16b8e100c1b7886bda1e7067 *0002-DEFAULT_FILE_ASSOCIATIONS\ps1.reg
+6a71fe8c8c3a085c9923ec99842db78e0aae953a327e232c69ad6ea8f8999342 *0001-TWEAKS\fixup.wifinetworkadapternames.reg
+56270e5072c8d4b7abf7730d9c99b1c95881c74069340e3156d7a2bcb195c31b *0000-2020-04-MGRT\Taskbar\Add or Remove Pin to Taskbar Context Menu\Remove Pin to Taskbar Context Menu.reg
+762818077d7538466a95bc9a1d81441e4cb2edd9ef08d40eec7e9278055865d6 *0000-2020-04-MGRT\File Explorer\Move Libraries Above or Below This PC in File Explorer\Libraries Above This PC File Explorer.reg
+d3a3614ff89fec9ed0d0c4ca5e31842d0207d9ba555f0624a4243d5a7e79c3fa *0000-2020-04-MERGED\Disable Windows Consumer Start Menu SPAM.reg
+d0881762d03969e81972e2d6691a6d3440f5b66dfd9845abb36ca2b0b4c9e9db *0000-2020-04-MGRT\Power - Startup - Shut Down\Add or Remove 'Turn off hard disk after' from Power Options\MajorGeeks Tutorial Link.html
+44b3b85e2fe522950ad86d08cdf7af33c7a586792f32fab784b08b2dc31da053 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Hide Firewall & Network Protection Windows 10\MajorGeeks Tutorial Link.html
+31abe52a5449ae86e2eb01b09f2b1ae40af94a62f864b9e1f60bf5c39f0a1447 *0001-TWEAKS\MRT.reg
+487b18e45086df9fe1a6adbba024719a4c71a2434ddd5a8412320e357f512513 *0002-DEFAULT_FILE_ASSOCIATIONS\RDP.reg
+dad2f555e5bc0958e728ad915b7803be63fd81d8189c31a09e667381ebd8e612 *0000-2020-04-MGRT\Taskbar\Enable or Disable Taskbar Transparency\Disable Taskbar Transparency in Windows 10.reg
+3bcfaf9b40f816d8a6c8154d84128a92b2616608366551e252f0e794666b397b *0000-2020-04-MGRT\File Explorer\Move Libraries Above or Below This PC in File Explorer\Libraries Below This PC File Explorer - Default.reg
+8c409d8b635f92862beb2199d11e361b54778ac06e7593048d8a41ff8cbcdb51 *0000-2020-04-MERGED\disable-ads.reg
+208087fa344f1c394dd152b8b7978117ca3f3bd646266e2e25569a501c5b5c2e *0000-2020-04-MGRT\Power - Startup - Shut Down\Add or Remove 'Turn off hard disk after' from Power Options\Remove Turn Off Hard Disk Power Option.reg
+4607edf4547c2c1a520d6ebe7196223117c36ff6f09a67d3baa4f11d3bfdfb81 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Hide Firewall & Network Protection Windows 10\Show Firewall & Network Protection.reg
+054a880f67095adc05827d88bd506fec123a88dc4738b35b2d7abef4c05eb5b4 *0001-TWEAKS\procexp-hijack.reg
+0ea891cef04b33b70794cd898e9cef03dd65cb5f27289fae24b01799c108e665 *0000-2020-04-MGRT\Taskbar\Enable or Disable Taskbar Transparency\Enable Taskbar Transparency in Windows 10.reg
+83d982360710d0422773dea7303232431748f9f8b13ad2c77150ba28a2fb8d50 *0000-2020-04-MGRT\File Explorer\Move Libraries Above or Below This PC in File Explorer\MajorGeeks Tutorial Link.html
+4fad47833cbe912652f06d73d67331398f2375e2e48e985987f4791bccc135f8 *0002-DEFAULT_FILE_ASSOCIATIONS\reg.reg
+f38fdc4aee5fa914bbd4c987863f124cfef26075a5ec868cd9d2307c28b53ddc *0000-2020-04-MERGED\Disable_acrylic_blur_effect_on_Sign-in_sceen_background.reg
+768796e8ce3a852b059b9bd9b3146738330f1039d715e81574a0ddc28a00930d *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart Start Menu to Context Menu\Add Restart Start Menu.reg
+14db79308c04de7bb1b5d60fd000eaf1d6f7b2ac94d41cd5a620f7534621b3c1 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Show Hide Device Performance and Health From Windows Security\Hide Device Performance and Health From Windows Security.reg
+120d524a64a36e42e7d99f97a8c0396294e0dc71fa0f93e724bd3944ba351d5c *0000-2020-04-MGRT\Taskbar\Enable or Disable Taskbar Transparency\MajorGeeks Tutorial Link.html
+8aec8c946c58defb81a699cb93f7163fdb0ca7aaf06e55e2a92efc672d399d10 *0000-2020-04-MGRT\File Explorer\Remove Quick access from navigation pane\MajorGeeks Tutorial Link.html
+414149650f3cb228e680392fe8a38a3312b9af4bd5549a6814c1354480529bf0 *0002-DEFAULT_FILE_ASSOCIATIONS\res.reg
+a54dccaae959d1e2d483542fb55b0d7ab13ab1e1f7f66e7855403a53737c0fb3 *0000-2020-04-MERGED\Enable App Launch Tracking.reg
+60e8763b1ed939cb9abbd47c98aa3056146dfeeecfc1b9ea1536b7d7dd0bd176 *0001-TWEAKS\Program_Compatibility_Assistant_Service.reg
+731939ec3802cd9eded35264a2b1749109f40c42d38b925fb9e3006a2f5474f7 *0000-2020-04-MGRT\Context Menu\Add Settings to Context Menu\Add Settings to Context Menu.reg
+8c1e39fc81cf27d216be972de3b353c49596389008de4f611fe029090324541f *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Show Hide Device Performance and Health From Windows Security\MajorGeeks Tutorial Link.html
+5185e1eaffcadf3ce048ab03ce0f081eaf266d5c62934cc53f60a0e3847d5ae4 *0000-2020-04-MGRT\Taskbar\Multiple Taskbar Buttons Automatically Switch to Last Active\Add LastActiveClick.reg
+2f11963b8b330cf5fcd60064c3e2dc1f9c928eb263ca812beda7b7d43280af2e *0000-2020-04-MGRT\File Explorer\Remove Quick access from navigation pane\readme.txt
+7c70a22749f82d0583a75c0b08f8726f0cb120663eee554a60c02093e1455fc3 *0000-2020-04-MERGED\explorer_advanced.reg
+72bc44c70143fb9eefa9b7dbd84d74b1fe05238b9011afee2d3cdc47df73f5a9 *0001-TWEAKS\rem.3dedit.reg
+ac7aceaed04530580da3ab3cafb6f34aa43763a32aa84204dceca16d587f83d8 *0002-DEFAULT_FILE_ASSOCIATIONS\rtf.reg
+c3d164b38b2a671752664f751180f2cf41f97249b0fdb8d546ace965dfd2633d *0000-2020-04-MGRT\Context Menu\Add Settings to Context Menu\MajorGeeks Tutorial Link.html
+56f6a958dd981946a66dccca546683f2d84dd5234eeaec86a34b3f383c521147 *0000-2020-04-MGRT\Taskbar\Multiple Taskbar Buttons Automatically Switch to Last Active\MajorGeeks Tutorial Link.html
+24059c6977d71a8720736c71448742437a820c6dbd84fe826ff24f60ddfd601f *0000-2020-04-MERGED\high-quality-wallpaper.reg
+706ee2dff5c9ec50ef667c48a3d661da8a3ded41df837ed71d356828076f7e30 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Show Hide Device Performance and Health From Windows Security\Show Device Performance and Health From Windows Security.reg
+10e825811a7a4bbcba22ef3d09182c1da7c1596ef900426174ad109328192eae *0001-TWEAKS\Remove_Burn_disc_image_context_menu_for_ISO_IMG.reg
+60d32c413cad2113382dda346b8786f1ae7f1f7c916351d90de4888b65e6fd10 *0000-2020-04-MGRT\File Explorer\Remove Quick access from navigation pane\Remove_Quick_access_from_navigation_pane.reg
+ec7efa518f791cda246283493fadee88eb72ac7ab13530bb114f3206400cf506 *0002-DEFAULT_FILE_ASSOCIATIONS\scr.reg
+0dd951455a1d057057d6c5f9c636238d9d79a6f2ba3832bea7c678e564db9ed1 *0000-2020-04-MGRT\Taskbar\Multiple Taskbar Buttons Automatically Switch to Last Active\Remove LastActiveClick.reg
+041f3a6245c5408c3b34591585f64b798bd48c13fc879273087191e1ee74d4c6 *0000-2020-04-MERGED\Never-Feedback_Frequency.reg
+5a6cf03c024f01001b4de7cb845c9bb38524f5b83a6a53680d87b817540490f3 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Turn On or Off Windows Defender Real-time Protection\Disable Windows Defender Real-Time Protection.reg
+bbd4b7e6e8c67ecc99facbed777310f7abd8d6e4185475706d2a490d4f497bf8 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart Start Menu to Context Menu\MajorGeeks Tutorial Link.html
+2123b4d28e2f50415b0bf0eafad796abde65c56625f023d6341b9abfb4e872b8 *0001-TWEAKS\Remove_OneDrive_from_Navigation_Pane.reg
+0d3ba1b34f7acee8df035ce7ccce14730f5e4dfb986e5cde0200b2fb719f36d4 *0000-2020-04-MGRT\File Explorer\Reset Folder View Settings\MajorGeeks Tutorial Link.html
+7182b433ca332da3e452c7698bd01bbf1a4ba43238a643b5147cd90cd36ff674 *0002-DEFAULT_FILE_ASSOCIATIONS\svg.reg
+1c5867047ff92bebeb5f1d1de09348c7a82173cdd11afb0bd7ee0ce602fe2926 *0000-2020-04-MGRT\Users - Accounts\Add or Remove Accounts Settings Context Menu\Add Accounts Settings Context Menu in Windows 10.reg
+a2479b296a6af36c112ed8a30afb4163e942d904031ff4a26a79ee37494c00af *0000-2020-04-MERGED\prevent-installing-sugessted-apps-win10-regtweak.reg
+c8c992ff7036cc7e4471a5c0d4d09d20f431fc4cea9e68ed08442a8c8ffd85b0 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Turn On or Off Windows Defender Real-time Protection\Enable Windows Defender Real-Time Protection.reg
+ff6a8b54b38a13c4e35aa5d5359456ecc619e0cf66bc61b6243a709cae6f66c1 *0001-TWEAKS\Remove_Play_with_Windows_Media_Player_context_menu.reg
+3dbc81b35c9db836eb2f4fe264a898bc7e9134412c0402b5593c9cb579a5737b *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart Start Menu to Context Menu\Remove Restart Start Menu.reg
+78ca222530902277c54fd1c7a944853ec0ee54b3b232e655f6c58424b7b40e75 *0000-2020-04-MGRT\Context Menu\Add Settings to Context Menu\Remove Settings to Context Menu.reg
+349418cdd104b330f16e25e1865d55c98028e0230bf50bb85e5ff5c140956f78 *0000-2020-04-MGRT\File Explorer\Reset Folder View Settings\Reset Folder View Settings in Windows 10.bat
+bddf125404831b02c0310d957b8c82a0f8af4176aedc8c0a89843a8c07dcfb5e *0000-2020-04-MGRT\Users - Accounts\Add or Remove Accounts Settings Context Menu\MajorGeeks Tutorial Link.html
+c2bf7c60a7370a3bf26a08484edf3df5a769b289a3578198c0805fb22ad932bc *0000-2020-04-MERGED\REG_TWEAK_MERGED_20200228.reg
+695605f4fec6d0a1d295dd2afc1bda15ae70fc2b218b047a31a31d4fd6ddabc9 *0002-DEFAULT_FILE_ASSOCIATIONS\ani.reg
+bb8202548d82f6adc10f8fe9c351ed23b5197ff2367cf17dc00fc0936c58a807 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart With Options Context Menu\Add Restart Desktop Context Menu.reg
+eb7f4432b8d6342cd02ad6eb81dff71cb431f048c37f94cf3e680e123e161c3f *0000-2020-04-MGRT\Context Menu\Add System File Checker Context Menu\Add System File Checker Context Menu.reg
+53e189ca964fc0ae30a058b8a200cdbe2afd7e11589ceb3d0ee819f0014fcfee *0000-2020-04-MGRT\File Explorer\Restore Default Shell Folders\MajorGeeks Tutorial Link.html
+646726fac80a9d8f276463ecdacf003a302a665f2456047f29df575cdb8b1be2 *0000-2020-04-MGRT\Users - Accounts\Add or Remove Accounts Settings Context Menu\Remove Accounts Settings Context Menu in Windows 10.reg
+29b899b1e08d4d439f7a916b208db249d36c8c5f63d211dcb8e205739de58460 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Turn On or Off Windows Defender Real-time Protection\MajorGeeks Tutorial Link.html
+a47d53390d88d4ccaddef7d2fb91ea157b5013ddcad79544030ba61d7a7fca3b *0000-2020-04-MERGED\REG_TWEAK_MERGED_20200406.reg
+6e445d2aedeac4154f2b79357e747996a7a36a0116e6aa74e1f0274bdcbdd002 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart With Options Context Menu\MajorGeeks Tutorial Link.html
+5a9de79c91271c463015317d9ea09f293395757dc1cd3976c9ed3c9832dbd883 *0000-2020-04-MGRT\Context Menu\Add System File Checker Context Menu\MajorGeeks Tutorial Link.html
+1a54f9210b635e1be239bf7e42215f5994f570a9b2a2277f66f2cc29b5a38612 *0000-2020-04-MGRT\File Explorer\Restore Default Shell Folders\w10_usf_clear_override_hkcu.reg
+972af7b5e1b208d92360ec91abdd367fd03eea60c56050d2838e43adb3853b95 *0000-2020-04-MGRT\Users - Accounts\Enable Disable Always Prompt For Password RDC\Disable Always Prompt For Password RDC.reg
+a7bc4ca353e634ff7f2fdd609bf86332fe286b83662fe3b9574e49ba2fdba5e6 *0002-DEFAULT_FILE_ASSOCIATIONS\avi.reg
+29b899b1e08d4d439f7a916b208db249d36c8c5f63d211dcb8e205739de58460 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Windows Defender on and off reg\MajorGeeks Tutorial Link.html
+478208971016ea9d914b6efe733889e389426410de0deb213fc85a6340da96e2 *0004-DIAGCAB\wu170509.diagcab
+756d2cae6074742e5a23e60b35e48008280da9ead623caffb5025c255ed6a6d7 *0000-2020-04-MERGED\Remove Previous Versions Option from Context Menu and Tab.reg
+a623a67ce45d2e885278d7871efa728ae2a5411f67839306b344d45cd293c8de *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Restart With Options Context Menu\Remove Restart Desktop Context Menu.reg
+46b1313637c015ad501b217c819c45a403e76ebd14b242ec9d7c1c4b410487b1 *0000-2020-04-MGRT\Context Menu\Add System File Checker Context Menu\Remove System File Checker Context Menu.reg
+e9e594d0324b518d586cb8c8cd9e9a2f73c785a982dcd8b3dea6574c59fcb8bc *0000-2020-04-MGRT\Users - Accounts\Enable Disable Always Prompt For Password RDC\Enable Always Prompt For Password RDC.reg
+2b31cba85625498fe4cbc0316f7f046821c13fc2e3e5f29f2ed6fe161999eedc *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Windows Defender on and off reg\Turn_Off_Windows_Defender.reg
+fbadfd0a85cc8657bf719965596b5dbac1bd987fa2bf0ba0c3b2646536aa96d5 *0000-2020-04-MGRT\Context Menu\Add Timeline to Context Menu\Add Timeline to Context Menu.reg
+b27b0b83c8699f7c523c172c416c4e6ed7a7789f0c4a495efd63cdc7f26a1bc2 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Shut Down With Options Context Menu\Add Shut Down to Desktop Context Menu.reg
+a0a0575f071808c7cf2df744d46bf48c0b94f5deb2125da97b25ae0077d6c6f3 *0000-2020-04-MGRT\File Explorer\Restore Default Shell Folders\w10_usf_defaults_hkcu.reg
+05cbca98cc3311d3823a7cfbca8224adfc12503f2a2d79313986e598f9dcb521 *0000-2020-04-MGRT\Appearance\Add or Remove the Classic Personalize Context Menu\Add Personalize Classic.reg
+22d2c0516f778650dda3fcbe1422a475f7f8092e68849abbf0fb94d955c65ac3 *0002-DEFAULT_FILE_ASSOCIATIONS\bak.reg
+16842e7ff3e6c52ab5184335a08849c0d075e8788a0186e8149e4cab30f0dfcb *0000-2020-04-MGRT\Users - Accounts\Enable Disable Always Prompt For Password RDC\MajorGeeks Tutorial Link.html
+982e12a58085c89e051c8dfaad72c639847b8665f0349ef31f22ac238646b792 *0000-2020-04-MGRT\Windows Security - Firewall - Windows Defender\Windows Defender on and off reg\Turn_On_Windows_Defender.reg
+8d1f043f856dc3d4cdbe8effb6318dd14bf833deb51b032aabb430673d442ba2 *0000-2020-04-MGRT\Context Menu\Add Timeline to Context Menu\MajorGeeks Tutorial Link.html
+c556243a9bcad94fdae6138d5bfdf6604c53c3617682823b93afdf9202b08fa6 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Shut Down With Options Context Menu\MajorGeeks Tutorial Link.html
+f9e8f40cffabab63c99edb980e365398cc69ddde95866e429c1c7d18a6b9e232 *0000-2020-04-MGRT\Appearance\Add or Remove the Classic Personalize Context Menu\MajorGeeks Tutorial Link.html
+e7e00a73b5ca5f15f4170f3ea0e67248adb5007f5129276efe08c68cf6c246a7 *0000-2020-04-MGRT\File Explorer\Restore Default Shell Folders\w10_usf_defaults_hklm.reg
+6adf9da23807bf60eaa71fa60fa354a5062041bd0baf78a7d423916bf686b611 *0000-2020-04-MGRT\Users - Accounts\Remove the Default Account Picture in Windows 10\MajorGeeks Tutorial Link.html
+fd48b627c3fd03784cab9d23660cd360d0538d9ae3cb88f4ef85c7ee1676d0e5 *0000-2020-04-STOP-RESET-ASSOC\undo.reg
+0f9a2377d14ad58b32b0d5fb5d6f0195d628254412d6ff799dd3f7ce45738735 *0000-2020-04-MGRT\Context Menu\Add Timeline to Context Menu\ReadMe.txt
+153a6227948ece46340cb409fdde45791fedc205f292ca32bb53bd8c13ca1311 *0000-2020-04-MGRT\Power - Startup - Shut Down\Add Shut Down With Options Context Menu\Remove Shut Down to Desktop Context Menu DEFAULT.reg
+58d960ff7abb42fba36b9a85e440bb141d64f1b377d15777f13ff2efc3493c07 *0000-2020-04-MGRT\Appearance\Add or Remove the Classic Personalize Context Menu\Remove Personalize Classic.reg
+46aa2a928cd33412c698f379b91d2b1f09aa58cccedb44db1a07383a63c06a70 *0000-2020-04-MGRT\Users - Accounts\Remove the Default Account Picture in Windows 10\readme.txt
+0b69731b7b77c6a435fc724f7cac80daf8896f44fcafbaa0253373e9e3ec4c5f *0002-DEFAULT_FILE_ASSOCIATIONS\bat.reg
+c46701c4a844161187a1ba879d285bef812886831e478c924e08e3a855bdafdf *0000-2020-04-MGRT\File Explorer\Show or Hide File Name Extensions in File Explorer Context Menu\Hide File Name Extensions Context Menu DEFAULT.reg
+aaa1102d6ce874c68537b8ccb98cbd15fb328f5624123e4eeaa9036b16f69996 *0004-DIAGCAB\wushowhide.diagcab
+e3b9a55f6e79b3d5b0f653783993a15957c1151be42fa7c4ead339dfdb8d5d2e *0000-2020-04-STOP-RESET-ASSOC\w10_stop_reset-fileasso.reg
+95a6e8cde6d757ca3b68f23c1d138607ac665501e6b0a2dc220722167f2f0e5f *0000-2020-04-MGRT\Context Menu\Disable or Enable Wide Context Menus in Windows 10\Disable Wide Context Menu.bat
+78d8ee339220be2fc3d8421165b18392579b7772cad96fab76c011760d5b1f02 *0000-2020-04-MGRT\Power - Startup - Shut Down\Allow Sleep with Remote Opens\Add Allow Sleep With Remote Opens To Power Options.reg
+17851456b78c4aa507e3e0bcf82b3b88c7abcd1fc18515ad18a68e640875f286 *0000-2020-04-MGRT\Appearance\Backup Spotlight Images to Desktop\Backup Spotlight Images to Desktop.ps1
+983b7b7045353bfca3879547c19540fbebac8f1b52a5ffc9bd0ddfd6a46a4b93 *0000-2020-04-MGRT\Users - Accounts\Remove the Default Account Picture in Windows 10\User-192.png
+d8b78881c026b87511c0e39e7c40cd5b87738a753a025a7ea99b97c53661ebbe *0002-DEFAULT_FILE_ASSOCIATIONS\bin.reg
+fc51c90a74bf1eb6db0df06e0b42217501627ba0af186013d52bf01e7dde95a2 *0001-TWEAKS\0001-Disable_Lock_Screen.reg
+1ce2f0efa530d4b70c7af8f9b6c64de29dbff9fcf13cc90ab60620b899c62213 *0000-2020-04-MGRT\Context Menu\Disable or Enable Wide Context Menus in Windows 10\Enable Wide Context Menu Default10.bat
+14b70d18f419eb157228735c7c83fa0a50fd8a7e12a8807c7f23b735ddec7e66 *0000-2020-04-MGRT\File Explorer\Show or Hide File Name Extensions in File Explorer Context Menu\MajorGeeks Tutorial Link.html
+b44230eef5995eb3ce6cb7aa3c403290f306372c17b9fad31aaa96c1b269ac4b *0000-2020-04-MGRT\Appearance\Backup Spotlight Images to Desktop\MajorGeeks Swag.html
+2cf293a245f2f456626ac01269037eb7031d807b1e4ef21bbf9e9d1d1f22da5e *0000-2020-04-MGRT\Windows 10 Fixes\Disable Advertising ID for Relevant Ads in Windows 10\Disable Advertising ID for Relevant Ads.reg
+54a2ef50418950928c65a013456e0326fb4d6afce679a551477c652f41c82fd6 *0001-TWEAKS\0001-Enable_Lock_Screen.reg
+02c9c05bc4cd5680596eb1d0efb7b3cb128869c5134591e663780f18a5d7e753 *0000-2020-04-MGRT\Context Menu\Disable or Enable Wide Context Menus in Windows 10\MajorGeeks Tutorial Link.html
+7591b0d0872048cb7c6a6bde73d9f36c203ca255ab648ba289c0ea4459611c54 *0000-2020-04-MGRT\File Explorer\Show or Hide File Name Extensions in File Explorer Context Menu\Show File Name Extensions Context Menu.reg
+62991305291fa28bc9c877fff713d9c8a7824174708942ec806a44ea3bf326a4 *0000-2020-04-MGRT\Appearance\Disable or Enable Automatically Hide Scroll Bars in Windows 10 Apps\Default - Enable Automatically Hide Scroll Bars in Windows 10 Apps.reg
+3f68b7a0d18d77997bac98aa5f32637da6ae37d61ab9e980d788535dfef94a79 *0000-2020-04-MGRT\Windows 10 Fixes\Disable Advertising ID for Relevant Ads in Windows 10\Enable Advertising ID for Relevant Ads.reg
+c296b3e4971ab84cf367d6fd5b762fb7d44fa52668eb3a236fc7f5b171b0852b *0001-TWEAKS\0002-Disable_Sign_in_Background_Image.reg
+98b0d854bc9cb32e5e01d74bc8ff218b40536a92a9e4ddc623ef12784df3bd6e *0000-2020-04-MGRT\Power - Startup - Shut Down\Allow Sleep with Remote Opens\MajorGeeks Tutorial Link.html
+dc3ed6509028888428fb2b1575a4fec348827821b2e14a5ce98ccfb3e7256ad4 *0000-2020-04-MGRT\Context Menu\Remove or Restore Previous Versions From Context Menu and Properties\MajorGeeks Tutorial Link.html
+bb7c9873873dc118c68691625ea13cf4886d32c8332f15247c1705fbb2a3e439 *0002-DEFAULT_FILE_ASSOCIATIONS\bmp.reg
+06d9f8148f1c533f451fadd8ac67436c9f14f89bef825c90cf73624c37ae4c90 *0000-2020-04-MGRT\Windows 10 Fixes\Disable Advertising ID for Relevant Ads in Windows 10\MajorGeeks Tutorial Link.html
+032aaa8d8e6d6b6a8b614605058157919e499bdcb4c5a4eb6c64176b02e99edf *0000-2020-04-MGRT\Appearance\Disable or Enable Automatically Hide Scroll Bars in Windows 10 Apps\Disable Automatically Hide Scroll Bars in Windows 10 Apps.reg
+7d5dff7bc432609bac75070dd8febd7e5ea2e75ccf1a3ba6de6760b048af8cc2 *0001-TWEAKS\0002-Enable_Sign_in_Background_Image.reg
+678342e098902d8a200b1f5cb191e0c884cfe7d6a63fb306867748a18091921c *0000-2020-04-MGRT\File Explorer\Stop File Explorer From Showing External Drives Twice\32-Bit Restore File Explorer Showing External Drives.reg
+a1b68b9d723bf312b5170dcb8658c7fae735951bb0081256313f4186a6ce5bbd *0000-2020-04-MGRT\Context Menu\Remove or Restore Previous Versions From Context Menu and Properties\Remove Previous Versions Properties Context Menu.reg
+6beba0636777276478e93342cddec386839d1da9bceec037cceb74abef15e9fa *0000-2020-04-MGRT\Windows 10 Fixes\Disable All Advertising and Sponsored Apps\MajorGeeks Tutorial Link.html
+263a084c4d86bd5e553e7a77b3fdc513e7876d12c26a30f46daabb0dc8d07bc8 *0000-2020-04-MGRT\Appearance\Disable or Enable Automatically Hide Scroll Bars in Windows 10 Apps\MajorGeeks Tutorial Link.html
+bf0c1e15fb1fb944312248394f2bb822bd8a04b1f25c3447b4590ef35f804238 *0002-DEFAULT_FILE_ASSOCIATIONS\cab.reg
+816c9fbe56bd7ba7460f150b7a60579c65e28635eaa6a0bfc6391e6b355429ce *0001-TWEAKS\0003-Add_Scan_with_Windows_Defender-command.reg
+c2c81b993506b5d38ee0f02db5fa1d67166c64a4617851398d158d7d9dbb5340 *0000-2020-04-MGRT\File Explorer\Stop File Explorer From Showing External Drives Twice\64-Bit Restore File Explorer Showing External Drives.reg
+16b53abdf55cfed774f5a75e26c602957375a702cbd0b3bebdc99e226476fe28 *0005-CMD\clean.wu.cmd
+756ea2676baa7022b997c8bcb8549aca41b4e807be5ee53dc1c38ee90ff8f8ec *0000-2020-04-MGRT\Power - Startup - Shut Down\Allow Sleep with Remote Opens\Remove Allow Sleep With Remote Opens From Power Options.reg
+ea9f483239409e418df3d56a9a6f38c68e1545d337f2225a2fd7c44005716681 *0000-2020-04-MGRT\Windows 10 Fixes\Disable All Advertising and Sponsored Apps\Windows 10 disable most of ads.reg
+fca11fc2afd74d3a4463ae92eec0cf63ad1fe857a6cd9942956a270abbaddbda *0000-2020-04-MGRT\Context Menu\Remove or Restore Previous Versions From Context Menu and Properties\Restore Previous Versions Properties Context Menu.reg
+15b3248d7a7071c3e4b9eb2990ff10d7548de5de9552e22b35fe326fc213b14d *0001-TWEAKS\0003-Remove_Scan_with_Windows_Defender_from-Command.reg
+ce91c6016a25c27cef2ff0f79373d5e459ebed0f34efcceb82d132ad1dcb403d *0000-2020-04-MGRT\Appearance\Disable Screen Savers\Disable Screen Savers.reg
+b6e87f5d545fec703dea79260fbd8ac24820e3c63191fefe72b617f11f995c43 *0005-CMD\netsh.tweaks.cmd
+c2d9b72fe8b19b29ce6644d76dce612f9a5328ddc2667033800511495304b3c4 *0000-2020-04-MGRT\File Explorer\Stop File Explorer From Showing External Drives Twice\MajorGeeks Tutorial Link.html
+57343824fc0741a5eeb4e33bc72cf9c7e104a78a1ef81bf9d1bacf13ce6b5d8a *0000-2020-04-MGRT\Power - Startup - Shut Down\Create a Slide to Shut Down Shortcut\MajorGeeks Tutorial Link.html
+a55823a7e3aeca32ed05d376aec7fd78c3cf9d25d215123e851e0d5512f2ed41 *0002-DEFAULT_FILE_ASSOCIATIONS\chm.reg
+b9d0d8d13d7bd66b48c63c81941ae34f8ab16e41d4678740393d50faae181c6d *0000-2020-04-MGRT\Disable Features\Disable App Launch Tracking in Windows 10\Disable App Launch Tracking.reg
+ae3b002c8fcd1c766c61585598af984056142b6fdac755b27c7d49a0054051c4 *0001-TWEAKS\0004-Add_Scan_with_Windows_Defender-UI.reg
+93b2cfec504c666a050bfea9cad2b6c38d88f8874fc4d56f2c58dc9e914fce9a *0000-2020-04-MGRT\Windows 10 Fixes\Disable Automatic Maintenance in Windows 10\Disable Automatic Maintenance.reg
+894db58b9ec7aae4542fdc72d59abb9d8c37dca1f1bc54c5e28713d20e31dbf9 *0000-2020-04-MGRT\Appearance\Disable Screen Savers\Enable Screen Savers.reg
+15acea70bb90a2ceb9a2f9d4e197bdd57a8bd24c82ef88ec3cf2d9337ba556fc *0000-2020-04-MGRT\File Explorer\Stop File Explorer From Showing External Drives Twice\Stop File Explorer From Showing External Drives Twice.reg
+2bab2131b43c503622326dde5ec2a357db367a55a3529986791bdca17f2f4653 *0000-2020-04-MGRT\Power - Startup - Shut Down\Create a Slide to Shut Down Shortcut\Slide to Shut down.lnk
+75506fa3b235d0a3d06888020d1b1fd21616940dd60ef1281695c9cb736dab5b *0001-TWEAKS\0004-Remove_Scan_with_Windows_Defender-UI.reg
+a54dccaae959d1e2d483542fb55b0d7ab13ab1e1f7f66e7855403a53737c0fb3 *0000-2020-04-MGRT\Disable Features\Disable App Launch Tracking in Windows 10\Enable App Launch Tracking.reg
+2bb8b16030d4964fcfef83f5637cb04fbc30c4ed50176854e6783de157b41adc *0000-2020-04-MGRT\Windows 10 Fixes\Disable Automatic Maintenance in Windows 10\Enable Automatic Maintenance.reg
+37cefafe2a2f3d5bbdc72b6cae31546b3b6bf274f5f08c1fc0e6bce099a7f587 *0000-2020-04-MGRT\Appearance\Disable Screen Savers\MajorGeeks Tutorial Link.html
+9295462b873563e2b289eb4a066f178ae5354a960fe3e96c32839e3b4ad09ffb *0000-2020-04-MGRT\File Explorer\Take Full Ownership of Files & Folders Context Menu\Add Take Ownership to Context menu.reg
+d706febe09dd1c1e4d78e4a3badaa63146abd9fdd9e4232ffed8d13f6a0489d6 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable AutoEndTasks at Shut Down, Restart, or Sign Out\Disable AutoEndTasks at Shut Down Restart or Sign Out.reg
+d2392155f9b519a6b502634c23075c10fdf560c1a14dcb605ff132ac2c9ec180 *0001-TWEAKS\0005-Turn_Off_Windows_Defender.reg
+5f6866f3ea272e575d4573ff062db2e0645bc98168b53a7864528046337346f3 *0000-2020-04-MGRT\Disable Features\Disable App Launch Tracking in Windows 10\MajorGeeks Tutorial Link.html
+158fe7fb384798ff51ff6ab888c708dcaa0d3bab125714f19ddb38c148b2037a *0002-DEFAULT_FILE_ASSOCIATIONS\cmd.reg
+945e22ac072ac697d752fb65618d003c4cf197ce1b0cf5cccc369b3ae0d89021 *0000-2020-04-MGRT\Windows 10 Fixes\Disable Automatic Maintenance in Windows 10\MajorGeeks Tutorial Link.html
+236a9fbf9a3a40e3a6bba72b983a3409fbe67a220dcb5829030dcff4519013fc *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\Disable_floating_immersive_Search_bar.reg
+c61c3f2905e97d21aa65bdd06364eb97b5b17c70dbb2714ca07b778bba348c33 *0000-2020-04-MGRT\File Explorer\Take Full Ownership of Files & Folders Context Menu\MajorGeeks Tutorial Link.html
+490ec6236d43a00b9b83e96401751e6e419a2fb7519ef8cb56c0facaeb9b46cf *0001-TWEAKS\0005-Turn_On_Windows_Defender.reg
+314f2994997b1430494b27bf1b7151d59dac4cfd6958c25593ab9666bbf6b4d5 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable AutoEndTasks at Shut Down, Restart, or Sign Out\Enable AutoEndTasks at Shut Down Restart or Sign Out.reg.reg
+4d33fccce2b23804f94610a08fa4f64bfb0e9c8e6d7827cf9f288188e6247d44 *0000-2020-04-MGRT\Disable Features\Disable Are you sure you want to run this file\Are you sure you want to run this file.reg
+525df3640295eb4355563cc7056b58cc41704a3f2bf9ff947f19b1c19a9aa4d5 *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\Enable_floating_immersive_full_Search_bar.reg
+51c534d943be935a8c1f8e5c4ed2d579d70902ccbc55aa8e0b54b1b34d98fbd3 *0000-2020-04-MGRT\File Explorer\Take Full Ownership of Files & Folders Context Menu\Remove Take Ownership from Context Menu (Default).reg
+5b5ed5da47fc9d3b5b4ee8ecad9285268905a8a2fb96ec6bec9ffe48be00f633 *0001-TWEAKS\0006-service-dnscache-cachettl-delete.reg
+bf043e2aa4a058440689e687501968761d92f2b59ed0b727399b39ed98af8ad8 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable AutoEndTasks at Shut Down, Restart, or Sign Out\MajorGeeks Tutorial Link.html
+396ad11c11326b66cc0d1bf1e6dbd40ec758b4fd293da851ab602b088c8733a3 *0000-2020-04-MGRT\Gaming\Turn On or Off Game Mode in Windows 10\MajorGeeks Tutorial Link.html
+4e802fa599ccc72e8067570b06f7beffe6f5e98c028b855c294bf5a0669a538f *0001-TWEAKS\0006-service-dnscache-cachettl.reg
+a04545362266acb10c08cbe8a273b112ea3582503c725c5c00e30a0b82df0e9a *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\Enable_floating_immersive_full_Search_bar_with_round_corners.reg
+4b2f152bdca24ff883055b5234068771368bc0f639f2da2c24b1cbd098e9da2f *0000-2020-04-MGRT\Windows 10 Fixes\Disable Featured or Suggested Apps from Automatically Installing on Windows 10\Disable_automatically_installating_apps.reg
+463f31a2dad0eb6b9b7eceaffc3e1d8ad89f9619cee0569d1d3bcfca920cd04c *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Connected Standby\Disable Connected Standby.reg
+89db3520577a9131c31ae8236469623a12d08ac0d509875f25fd5723d5f153ac *0000-2020-04-MGRT\Disable Features\Disable Are you sure you want to run this file\MajorGeeks Tutorial Link.html
+00b89af3bd291f3d338b706ad693c2503918cb94b4aeccafb1eb66c5cb4b176f *0000-2020-04-MGRT\Gaming\Turn On or Off Game Mode in Windows 10\Turn_off_Game_Mode.reg
+9a9d919d1c45c6ffb69857d8d00c228a48dbd3a5b838c151ec8c0b5a9172c92b *0006-THEMES\Asus Gold.deskthemepack
+0d1d05f5fc3cbbeb6d582f9e4c47462c0ffb030928c5f2111c53938344f980dd *0001-TWEAKS\0007-notepad++_lng-pl.reg
+7a4df41cd848c68abedef12c487242e2d00e6f4cf875bb7a95d89bb387f65e07 *0002-DEFAULT_FILE_ASSOCIATIONS\com.reg
+98f3d0f0b53d02111cd89791ad7b3f79f308fdd45f7978873cd2427b2842df1e *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\Enable_floating_immersive_Search_bar.reg
+3885a623aa66c3ba2b65d8cf3e6d66ff3b3e84cdb5c5b785fa27faf7ebd12bcc *0000-2020-04-MGRT\Windows 10 Fixes\Disable Featured or Suggested Apps from Automatically Installing on Windows 10\Enable_automatically_installating_apps.reg
+c77452d649b8c6a042980b426ba8ff7b6f3e60c370d149e03ba69e1bf5386913 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Connected Standby\Enable Connected Standby DEFAULT.reg
+dcc4c95ea4e09aee77ee8237db2abda21f52228c0b96efaf224bab8f79318a28 *0000-2020-04-MGRT\Gaming\Turn On or Off Game Mode in Windows 10\Turn_on_Game_Mode.reg
+fe98d453677b2ab4b0cda54cd1f56b4023eed55f3adf80f8ef9451570807d389 *0001-TWEAKS\0008-prefetch-disable-see_note_in_file.reg
+d348e8211dd9b3f049db58d86b16d14d522467895ef39c62d7f49bb03c7ed90b *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\Enable_floating_immersive_Search_bar_with_round_corners.reg
+18daf2fa777401e89d8561e7f764c92cddf9f814da11f3bb0e106cc7f2968e75 *0000-2020-04-MGRT\Windows 10 Fixes\Disable Featured or Suggested Apps from Automatically Installing on Windows 10\MajorGeeks Tutorial Link.html
+135bb22fd9cb89809a0cd440572f13e57a6b95ec9dfd56df379e9c5a34ee7074 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Connected Standby\MajorGeeks Tutorial Link.html
+e950323a616ed2b436484971df569870201ecb223f90573325e587140b95a601 *0000-2020-04-MGRT\Disable Features\Disable Chromium Microsoft Edge From Running in The Background\Disable_Pre-launch_Microsoft_Edge.reg
+fc46eb7ad58952e704a620884fa05f2b3f4fd3b1611a2b58da846ba7ac389371 *0000-2020-04-MGRT\Gaming\Turn the Game Bar on or off in Windows 10\MajorGeeks Tutorial Link.html
+bedf9b87583b3f806e4fcd228d36f2570cc4e525572898a4f396f110058bc881 *0001-TWEAKS\0009-Add_Previous_Versions_to_Properties_and_context_menu.reg
+d30b046e7b05e184accccc6589c37661ebf60f62899c0fb1ab4167da07b4408a *0000-2020-04-MGRT\Appearance\Enable or Disable Immersive Search and Rounded Corners\MajorGeeks Tutorial Link.html
+6554687ff20520f17ad97a872c7d2dbdf9b10306fd87c914a979a864c834146e *0000-2020-04-MGRT\Windows 10 Fixes\Disable Get Even More Out of Windows\Disable Get Even More Out Of Windows Screen.reg
+341dbe6fb4dcc0ba5ed8d1d4418261e555e06a3a9778a46764ee1d6b628d9236 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Hibernate in Windows\Disable Hibernate.reg
+34c3dc0df2b03f46c430e98ef55b6f9f7368d7a5b66ce96c0f1c016929e31aa8 *0000-2020-04-MGRT\Gaming\Turn the Game Bar on or off in Windows 10\Turn Off Xbox Game Bar.reg
+7762b9932347b8261a540d13cc50dd9276e275a1f083363031e874a7faf1c483 *0001-TWEAKS\0009-Explorer-NoPreviousVersionsPage-disable.reg
+d0bfc1a77034707242f28deb2de38a28b36f8928c7253a798bb3fbe54c6eef9a *0000-2020-04-MGRT\Appearance\Restore Default DPI Windows 10\MajorGeeks Tutorial Link.html
+e8ce4dca01bbc5b6374f56927700297f6222455f561cb760910e481f34f9c5fc *0000-2020-04-MGRT\Windows 10 Fixes\Disable Get Even More Out of Windows\Enable Get Even More Out Of Windows Screen.reg
+4bce04abce66672106aed20e0315db4a3e4d1325fe1738d290ce62e22b709b1a *0000-2020-04-MGRT\Disable Features\Disable Chromium Microsoft Edge From Running in The Background\Enable_Pre-launch_Microsoft_Edge.reg
+7d9504f5bb4d782684dc9e6e4c4d8dbfa4b65b480d6c4adc07f438c3ebc68255 *0001-TWEAKS\0009-Explorer-NoPreviousVersionsPage-enable.reg
+e02c84b8f94309ca3ba62454a3a1fd101bcfde43c9bfd6f48888f92a3675fbf3 *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Hibernate in Windows\Enable Hibernate.reg
+4fe2044cc63912788291c85328a7e1a2cbbe493bb7fff3fe08998afb2e3c38b9 *0000-2020-04-MGRT\Gaming\Turn the Game Bar on or off in Windows 10\Turn On Xbox Game Bar.reg
+7e4d73d3cc08b368fca83044131ce6357a50310fca1fb96f0b23dae8583dca6d *0000-2020-04-MGRT\Appearance\Restore Default DPI Windows 10\Restore Default DPI Windows 10.reg
+405238af09cdc89b07f95e86759432d0931b4fc82ceeec9782b8f70ccaec73c9 *0000-2020-04-MGRT\Windows 10 Fixes\Disable Get Even More Out of Windows\MajorGeeks Tutorial Link.html
+a731f1149d81d33367ea2f93d844e5b33920fc60fb953cf633192a577b5f39fb *0000-2020-04-MGRT\Power - Startup - Shut Down\Disable or Enable Hibernate in Windows\MajorGeeks Tutorial Link.html
+a275cb65122e1470a74f86a7716006a902cc4d8f49e71061f1fdb3a2cb66af0d *0000-2020-04-MGRT\Get MajorGeeks Swag.html
+e676b0add05f476d1b8b5dfc363877ce2e0e229704d25236a566d53ade2962c5 *0001-TWEAKS\0009-Remove_Previous_Versions_from_Properties_and_context_menu.reg
+4b3b2d10577886a56745dd1ca741926e63849626ca929b5a486d4a7549d1b453 *0000-2020-04-MGRT\Windows 10 Fixes\Disable or Enable the Windows Welcome Experience Page\MajorGeeks Tutorial Link.html
+9b75ad81d02916112eea14d308af7eb9baf00a1a9b0c14d3c3901e3efa876ff9 *0000-2020-04-MGRT\Appearance\Show Your Windows 10 Version and Build Number on the Desktop\Hide Your Windows 10 Version and Build Number on the Desktop.reg
+48b0654999c95275cff88104ed2ad8861ae47985aeb4dee1049716eab7986215 *0006-THEMES\Asus Gray.deskthemepack
+e054b9ff204b26107786bc0588da013aa95116954c8fdf8669e39c9dd46c46a2 *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable Battery Icon Time Remaining\DisableBatteryIconTimeRemaining.reg
+17cb42d0d4c3dfe75db52b7c3a8964f9e83611aeb52ead79584fd41ab0abe933 *0001-TWEAKS\0010-Microsoft-Windows-Application-Experience-DISABLE_ALL.reg
+2d77970045342eee904c9914b63f9d45aad71a0b9c136f03d3497909d214913a *0000-2020-04-MGRT\Windows 10 Fixes\Disable or Enable the Windows Welcome Experience Page\Turn_OFF_Windows_welcome_.experienc.reg
+54871a49307eaa60d6d2326d67321ed818f2903a3dca64528efa2f9eca163ebd *0000-2020-04-MGRT\Appearance\Show Your Windows 10 Version and Build Number on the Desktop\MajorGeeks Tutorial Link.html
+68a3687e918cb3e18d27dd6e654a6901bacfb22de972c09dfcb8930f4fb1fb59 *0002-DEFAULT_FILE_ASSOCIATIONS\css.reg
+efece5caa78793e2254ef5935db6fcac5b72bb354feaa812f4bb0e4306145fa7 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Magnifier Context Menu\Add Magnifier Context Menu.reg
+dafbb747fb2a836a6b3586e18272dd116905645da9f195a53a0e99d27c944d69 *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable Battery Icon Time Remaining\EnableBatteryIconTimeRemaining.reg
+c41f751fde7ac06ef8138e2ec1f053e20a5d98e9d07d80ae5042f1a69d8bfb2a *0001-TWEAKS\0011-ErrorReporting-Disabled.reg
+53127a3388545157ac365fe6bc1ed59f5a969321df88722263f5adbb118e47f4 *0000-2020-04-MGRT\Windows 10 Fixes\Disable or Enable the Windows Welcome Experience Page\Turn_ON_Windows_welcome_.experienc.reg
+4c0f25144042181896b52bbe64fec842220cbf5cd5327b80332f62f8c67544eb *0000-2020-04-MGRT\Appearance\Show Your Windows 10 Version and Build Number on the Desktop\Show Your Windows 10 Version and Build Number on the Desktop.reg
+56f1d2833bcb95bc9eaa26a05d9d3a3e7efd7f95bc7d5cb26dd4e65f041dcd31 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Magnifier Context Menu\MajorGeeks Tutorial Link.html
+3f39b02e62bb1bec57d032443744c4f69d6ea46e2397d8dad48c66270e70a6af *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable or Disable Lock Computer in Windows\Disable Lock Computer.reg
+6e7271b79451a7cb71838e4fe6ca1e38eda838581b15f2b5910468603b773bc8 *0006-THEMES\Deep Silence.deskthemepack
+d27fe76174027753e90b23f9d6ca332470d9de82ffbbaedb6bb5b5501a87a857 *0002-DEFAULT_FILE_ASSOCIATIONS\cur.reg
+dde5f56cb14f9a8813b727a6e27d9a8e0fc1f070f59af8952ad400eb9e124e6c *0000-2020-04-MGRT\Windows 10 Fixes\Disable or Enable the Windows Welcome Experience Page\Visit Majorgeeks.com.website
+b4b9b2c07b7c0863da811ee779870867c5257669ed1f291cea94742c90413006 *0001-TWEAKS\0012-MERGED-DISABLE-SPY10.reg
+6ed856b3a44bf9e426502952521116653dcc549dd2d1aeec88324e74d80e5806 *0000-2020-04-MGRT\Disable Features\Disable Chromium Microsoft Edge From Running in The Background\MajorGeeks Tutorial Link.html
+b5457ecdf2decf0515c481e5ad919acb62ddbb68ac133c3535c292f5fc2b7de9 *0000-2020-04-MGRT\Context Menu\Add 'Open With Notepad' Context Menu\Enable Open With Notepad.reg
+6bde8cea7a618151f523d6d56eba9479331099d77ccb8f8b40314dc45f220efe *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add Magnifier Context Menu\Remove Magnifier Context Menu.reg
+acd1c20e5edc02b7013daba9ff5a54971dcec2d5b95106349303019a70871df3 *0001-TWEAKS\0013-disable-appcompat.reg
+f7c89ba74ffd5ee96a97db4efad8aa260e018c015dddda3e7dab3c5b87519060 *0002-DEFAULT_FILE_ASSOCIATIONS\dat.reg
+614fc25072e14eed224a388a3dc3a5ad51e175b59b20f23e570b8d70cf490869 *0006-THEMES\Deep.deskthemepack
+94932db8d9bf0f6a4f752106d69ad3363f5555aba6acde81fe1ecde7cd226856 *0001-TWEAKS\0014-AdvertisingInfo-disabled.reg
+260834586b83a5a0cd2e67e68bea3fbc47659f4439fb7b6e3b034a5807e3569b *0000-2020-04-MGRT\Context Menu\Add Install Cab File to the Context Menu\Add Install Cab File Context Menu.reg
+932ea41f34f7b3df62ca0197e0a05a6ce266b7ae131e7d518097d84c253b8f3c *0000-2020-04-MGRT\Context Menu\Add 'Open With Notepad' Context Menu\MajorGeeks Tutorial Link.html
+5fb347e39a2c01f019728c652d8b58c1b7bf2c969713bd066abb7a7007faaf6f *0000-2020-04-MGRT\Disable Features\Disable Downloaded Files from being Blocked in Windows\Disable Block Downloaded Files.reg
+92cefade9179232bc76071188bfb4c01fb988c975af40864a76a4f8dbed63a74 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Cast to Device Context Menu\Add Cast to device Context Menu.bat
+a9fdab8d1f2e1a2977dedf0050332accba3c759095f64fd3dfac60baac0fb152 *0002-DEFAULT_FILE_ASSOCIATIONS\dds.reg
+87a64a71b5350965d73a69c1af8dd2376b8c3ceb13525f923d7f501566af15e7 *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable or Disable Lock Computer in Windows\Enable Lock Computer.reg
+0c5f751f8177540df28eb63ecfa220fe1fdfa8211d41fa4aa2cf7e428ac55b70 *0000-2020-04-MGRT\Context Menu\Add 'Open With Notepad' Context Menu\Remove Open With Notepad.reg
+5d009c18553ef9719a6b11aaf1c0cfe2ceb4ceb5c2adddaa60ed4b4202047e8b *0000-2020-04-MGRT\Context Menu\Add Install Cab File to the Context Menu\MajorGeeks Tutorial Link.html
+39f9a4c1cf5ead2d8b826e74b32e1a8b4b58ab9431b0508a6edd69a37f3e05f5 *0001-TWEAKS\0015-Add_AHCI_Link_Power_Management-HIPM-DIPM_to_Power_Options.reg
+2718ffe2394c2f50c1e0ac31a883ca39a678caf9e3d9dbaf3ebc6995f723c29f *0000-2020-04-MGRT\Disable Features\Disable Downloaded Files from being Blocked in Windows\Enable Block Downloaded Files.reg
+6e49e63726a330d39ab874e81b39e1c919eaa78f6fa260c48529c762b77eb01f *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Cast to Device Context Menu\MajorGeeks Tutorial Link.html
+c77835ca89c9ec97be482b1749080c8e0c82b96eff3a002ad70d9366ed99ea9b *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable or Disable Lock Computer Screen (Win Key + L)\DisableLockScreen.reg
+7e4c78ce51dda11e8c2d2b8eb04ff0d448347a0d4748e912372083cfc09c9d65 *0000-2020-04-MGRT\Context Menu\Add Install Cab File to the Context Menu\Remove Install Cab File Context Menu.reg
+e42257a7811a72ddc74d578de35060836a746f50d103d31e49cc86d2d659b22e *0001-TWEAKS\0015-Remove_AHCI_Link_Power_Management-HIPM-DIPM_from_Power_Options.reg
+1dfb918d7b24ed997133b9b5a5dcbaba7c76db46c3735c7b09687df2da5aea2a *0002-DEFAULT_FILE_ASSOCIATIONS\diagcab.reg
+e2b0793b7b2672248013c1f8f764fe5129d9af53d41c72b62c223b82bc13f896 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Cast to Device Context Menu\Remove Cast to device Context Menu.bat
+2ff725de8c3d5f47a202cc0ae049e967ba764b8e2882173bf7cf656d0a43b924 *0000-2020-04-MGRT\Disable Features\Disable Downloaded Files from being Blocked in Windows\MajorGeeks Tutorial Link.html
+c66740cab8ba7ccfe5ae3021f275d4beb0056bad2304b127431d7a25c094a7fd *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable or Disable Lock Computer Screen (Win Key + L)\EnableLockScreen.reg
+6a9d10f4556ff2290aa6ba44080b8d1fab6191f1756caebdcf83180264a200e9 *0000-2020-04-MGRT\Context Menu\Add Kill All Not Responding Tasks Context Menu\Add_Kill_all_not_responding_tasks_to_context_menu.reg
+b0dc30319ffb40f051320b1e680596991df1dd4118518ad867998dd29b68f8ad *0002-DEFAULT_FILE_ASSOCIATIONS\Directory.reg
+ef440eb999c21ecb781058e574cd12f70cf02c2b2c41289f814e048fdf79fc93 *0000-2020-04-MGRT\Context Menu\Add Inherited Permissions Context Menu\Add Inherited Permissions Context Menu With Pause.reg
+111f4c038136f5cb7b5abcdea550da04f3e37cda338ca5dd970523b12f0e511e *0000-2020-04-MGRT\Disable Features\Disable the Run Dialog in Windows 10\Disable run dialog.reg
+7eceb38dd011280618c9d0f0ff30eebd914b4342ecb4dfb6acc0567a71235156 *0000-2020-04-MGRT\Power - Startup - Shut Down\Enable or Disable Lock Computer Screen (Win Key + L)\MajorGeeks Tutorial Link.html
+395bdaa5181cf9d0b3ef80217a5fa748f7aec525e1803ee4948ee7c14933ac95 *0000-2020-04-MGRT\Context Menu\Add Kill All Not Responding Tasks Context Menu\MajorGeeks Tutorial Link.html
+21b0cee72397cc94b18a43f2de826098d3974be0d1452d44c3dce11ac8f1bb2d *0002-DEFAULT_FILE_ASSOCIATIONS\divx.reg
+77e752ae2ce765a43417f7d580bbcb5e0d083e73a5738226f7a2ef081b9c89f1 *0000-2020-04-MGRT\Disable Features\Disable the Run Dialog in Windows 10\Enable run dialog.reg
+8e86d49e7ceebb1a81b97e5b0efc4c9ea86a1beac40b1a9e335cd32cb1be00eb *0000-2020-04-MGRT\Context Menu\Add Inherited Permissions Context Menu\Add Inherited Permissions Context Menu.reg
+f26a3011a3b67371a45648e77d882e12e86af2d202dff784e57957b6560a9f3c *0000-2020-04-MGRT\Context Menu\Add Kill All Not Responding Tasks Context Menu\Remove_Kill_all_not_responding_tasks_from_context_menu.reg
+de6ae36f65e86a51073c73a7cdfc358e1dd48e4a2bf2ed09c1334d676f349019 *0000-2020-04-MGRT\Power - Startup - Shut Down\Turn Off Monitor Only\MajorGeeks Tutorial Link.html
+e093e99f4940a6b954db7bdc5406642d27678ae55d6d34061bb38b289a4a160f *0002-DEFAULT_FILE_ASSOCIATIONS\dll.reg
+0dba77113c821a5d5405b9629711a1667a075af2845732cd347df417d239e2ee *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Paint 3D Context Menu\Add Edit With Paint 3D.reg.reg
+572da1fddfdfc5f8ca99b7c72400ecc9a731bf1a880042ac21b883b05410a8f7 *0000-2020-04-MGRT\Disable Features\Disable the Run Dialog in Windows 10\MajorGeeks Tutorial Link.html
+f86bae4b71896ba27272cc3b51e72ac44ee880ac1149364b207a7260a27a4d41 *0000-2020-04-MGRT\Context Menu\Add or Remove Burn disc image Context Menu in Windows 10\Add Burn Disc Image Context Menu.reg
+48cc625f0d055b35258707c4625fc4c47efa0edac5a4d493b7882b5f4a998b56 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Paint 3D Context Menu\MajorGeeks Tutorial Link.html
+af6867b09533bd01fdf5cc7ed181dea727a886d2479e61bb6c25f8ce79f29be9 *0000-2020-04-MGRT\Context Menu\Add Inherited Permissions Context Menu\MajorGeeks Tutorial Link.html
+cf7450ee482a09400d77eccff6dbb6d4ee9dbae1ae8cb99bd97f6a6364ac6667 *0000-2020-04-MGRT\Disable Features\Disable the Task Manager in Windows 10\Disable Task Manager.reg
+a9456f500874f5b40b83962a36de0da0cb3717ded9bf92f253b3cd8ab9b45b48 *0000-2020-04-MGRT\Drives & SSD\Add Primary NVMEe Idle Timeout Power Options\MajorGeeks Tutorial Link.html
+1377955d4506983ea93ba75a72aca624291cc9e1f28623d3af71342ae20b8be8 *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Paint 3D Context Menu\Remove Edit With Paint 3D.reg
+10d0a2bc86f65435784a2a7c348aaf88dae2267d559a92d72a7eedc1f2b0c154 *0002-DEFAULT_FILE_ASSOCIATIONS\Drive.reg
+d961bfe5b6292d993c4187cd86aa070baf01cda62b3b9555ea47e6036250b5f2 *0000-2020-04-MGRT\Disable Features\Disable the Task Manager in Windows 10\Enable Task Manager.reg
+de54558c9616005516502822f5c290a010f80aeac4c4aec11b0becb16aca90e1 *0000-2020-04-MGRT\Disable Features\Turn On or Off Find My Device in Windows 10\Disable Find My Device.reg
+a114be89dea562bdf80f8adeb0bd8ba18d334e07704a9352cfac87f95c764603 *0000-2020-04-MGRT\Drives & SSD\Add Primary NVMEe Idle Timeout Power Options\Remove Primary NVMEe Idle Timeout Power Options.reg
+ce6f7fe53aceb504d3982b2c249033ff1ea50d37cfdd3a9fcb858a2317376f6e *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Photos Context Menu\Add Edit With Photos.reg
+9b053c3eb2fc87ee7f29c523de165958001241e1299f4edb49304422d0ebf511 *0002-DEFAULT_FILE_ASSOCIATIONS\epub.reg
+7ddeb5836662160f07003b3d5f334c2f7875ac4a79851eb1382fd641accd2cf3 *0000-2020-04-MGRT\Disable Features\Disable the Task Manager in Windows 10\MajorGeeks Tutorial Link.html
+80c490eb78554d0be24adfe4f505f75523be630a54001880a8f6b1c2de373f64 *0000-2020-04-MGRT\Context Menu\Add Inherited Permissions Context Menu\Remove Inherited Permissions Context Menu.reg
+94d153b23ac3e06123275229538666b94c5a411f31d821084dc6614fbcdae8c6 *0000-2020-04-MGRT\Disable Features\Turn On or Off Find My Device in Windows 10\Enable_Find_My_Device.reg
+c75227f3dc257f3e06109bdd18d5427524aa3ee57503ff64004f86ff928c1a7d *0000-2020-04-MGRT\File Explorer\Add Copy As Path to the Right-Click or Context Menu\CopyAsPath-Windows 10 - Restore Default.reg
+31283344a9b57285047b04583d0e7577a3e89f194ae641cfdd3d47f6e0faccea *0000-2020-04-MGRT\Graphics - Screenshots - Video\Add or Remove Edit With Photos Context Menu\MajorGeeks Tutorial Link.html
+cbc809fee04397ff8f37415aeb0e90711bec7e34038dece7c6d54f2d9406e052 *0002-DEFAULT_FILE_ASSOCIATIONS\exe.reg
+b9d43eb12e9c21a0234f023c349e569693bb0fd45c7f55f7fde0cb053791ec3d *0000-2020-04-MGRT\Disable Features\Turn On or Off Auto Adjust Active Hours\MajorGeeks Tutorial Link.html
+0dcd5d92125fa279368073ca52741230e97bafdbf10a149e4a336164eded73f2 *0000-2020-04-MGRT\Disable Features\Turn On or Off Find My Device in Windows 10\MajorGeeks Tutorial Link.html
+b977d0b1b53de7561bf6d80aa35de3fbbd6c2eda50eb9263ed65d096fe5f96c2 *0000-2020-04-MGRT\File Explorer\Add Copy As Path to the Right-Click or Context Menu\CopyAsPath-Windows 10.reg
+76222d5a05d3e167ae3ffbb7508071bec8e131c75c001d571a7d3a66293a97d0 *0000-2020-04-MGRT\Disable Features\Turn On or Off Auto Adjust Active Hours\Turn Off Auto Adjust Active Hours.reg
+9e2e9fcf7c84866fd7d15672b56a3955ea9d6e2649ff08868bb2ee61cff8039d *0000-2020-04-MGRT\Disable Features\Turn On or Off Find My Device in Windows 10\Turn Off Find My Device.reg
+a972165cb20dcb38a89ef666696bf951b4bd8824080b541c2fa85961beb9a24b *0000-2020-04-MGRT\Disable Features\Turn On or Off Auto Adjust Active Hours\Turn On Auto Adjust Active Hours.reg
+4a7ec45ca7fa02d68cb7f678056b1b33e3e29f7ee94df4293bde5220f46791ab *0000-2020-04-MGRT\File Explorer\Add Copy As Path to the Right-Click or Context Menu\MajorGeeks Tutorial Link.html
+8b9749f34c3faf9399f2be032c381c433f104aed9b2580b73695b4cd9b32f616 *0000-2020-04-MGRT\Disable Features\Turn On or Off Find My Device in Windows 10\Turn On Find My Device.reg
+3f50a1ba660cd684b783381cc3b7ac775e90a7166536a9ea085a4ec4785639fd *0000-2020-04-MGRT\File Explorer\Add File Hash Context Menu\MajorGeeks Tutorial Link.html
+28a64845d7ccc0cf5caa52c74a0bc513e39a3e8cc65bdf1e37207b1a8ba9e5bc *0000-2020-04-MGRT\File Explorer\Add File Attributes Context Menu\Add Attributes Context Menu.reg
+8453ab06bf40334035b59eba78b3e12263495ebcfe5f08e5590bfb0521efcc21 *0000-2020-04-MGRT\Drives & SSD\Add Primary NVMEe Idle Timeout Power Options\Add Primary NVMEe Idle Timeout Power Options.reg
+75f64bb428aff377d226dee454a50585104d3df5f1d2c9716f20aa1993c2b2b7 *0000-2020-04-MGRT\File Explorer\Add File Hash Context Menu\Remove File Hash Context Menu.reg
+68811dbc649045db18254a18bff570909311919fe7dab1c1495d1edc6c1e993b *0000-2020-04-MGRT\File Explorer\Add or Remove Delete Folder Contents Context Menu\Add Delete Folder Context Menu.reg
+cf42c48f330820af5a352767c894ddfdcda853089787b0ecb10e458f75a7e81c *0000-2020-04-MGRT\File Explorer\Add File Attributes Context Menu\MajorGeeks Tutorial Link.html
+dd2a459050eaf69ea64818dbf60aafb1d4f141a5d5b5641f952fef73020256c1 *0000-2020-04-MGRT\File Explorer\Add File Attributes Context Menu\Remove Attributes Context Menu.reg
+1430b6100351f9b2c5840e618e502c342c0301ed6d3c0631384be1725bf51030 *0000-2020-04-MGRT\File Explorer\Add or Remove Delete Folder Contents Context Menu\MajorGeeks Tutorial Link.html
+785a5a73640ab807519223eec05137ee5cfdcc01b85713b2f2a7fce2e0999fa3 *0000-2020-04-MGRT\File Explorer\Add File Hash Context Menu\Add File Hash Context Menu.reg
 a3dbcd81db1851b089e11337d2d29f6db907af00df5375d64a1abb46df5b2773 *0008-OEM\.NET-Framework-Offline-Installer-v2.3.exe
 0022250e259330a56c48dfbc82b99c21033e3d6635d3ad72388a1876eb5b0f1a *0008-OEM\OEM_ASUS.obi
-a1a5d193afea52f1b20f0bd14eb165d76daf10d17b62545690bf76e66a394e23 *0008-OEM\OEM_Brander.exe
+9afd3acb21fe370d19c6c326f0266208016eacb27bfc0723681654955861fc1d *0002-DEFAULT_FILE_ASSOCIATIONS\Folder.reg
+7cc492dac0bcea270861a0afc668ff1317ed86c3f902cb83f1761efa84ffb599 *0002-DEFAULT_FILE_ASSOCIATIONS\html.reg
+ac42751a42b5fff81110a97171379dbc68b327e5dbf90575cb7e9a7848a59e3d *0002-DEFAULT_FILE_ASSOCIATIONS\gif.reg
+9e52b587489e216c6f988e4aa847d11be0bed8a5cd3354e1ceaf68a15c8b3987 *0002-DEFAULT_FILE_ASSOCIATIONS\htm.reg
 61d5ced0ea3781970056f72868468396126435707dd8a3d59a17e76b86b89662 *0009-MSU\windows10.0-kb4100347-x64_89793c02681ab9df96565ca4c5ee601e4475ec8f.msu
+da963d8e9646cb5c74fb8d50a87010b2ba7a184815405976fa28a9f96d03e10c *README.md
+a1a5d193afea52f1b20f0bd14eb165d76daf10d17b62545690bf76e66a394e23 *0008-OEM\OEM_Brander.exe

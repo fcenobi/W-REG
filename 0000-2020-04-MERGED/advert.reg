@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Advertising 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AdvertisingInfo]
+"DisabledByGroupPolicy"=dword:00000001
