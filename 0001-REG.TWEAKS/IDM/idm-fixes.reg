@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\DownloadManager]
+"Extensions"="3GP 7Z AAC ACE AIF ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP MSU CAB ESD XZ Z MSU VBOX-EXTPACK"
+"PanelExceptionServers"="*.gstatic.com media.tenor.co media*.giphy.com *.sadistic.pl *.wykop.pl *.polsatnews.pl *.vod.pl *.ipla.tv *.internetowa.tv *.reddit.com *.onet.pl *.newsweek.pl *.facebook.com *.radioemu.com *.radio-internetowe.com *.dobreprogramy.pl *.wp.pl"
+[HKEY_CURRENT_USER\Software\DownloadManager\FoldersTree\Compressed]
+"mask"="zip rar r0* r1* arj gz sit sitx sea ace bz2 7z cab esd xz tar z vbox-extpack"
+[HKEY_CURRENT_USER\Software\DownloadManager\FoldersTree\Programs]
+"mask"="exe msi msu"
