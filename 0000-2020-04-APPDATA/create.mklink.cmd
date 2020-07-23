@@ -1,4 +1,5 @@
 @echo OFF
+
 :: Check if we are administrator. If not, exit immediately.
 :: BatchGotAdmin
 :-------------------------------------
@@ -31,67 +32,137 @@ if '%errorlevel%' NEQ '0' (
 :MKLINKJOB
 set CustAppDir="d:\fademind\AppData"
 :: EpicGamesLauncher
-MKLINK /D  "%UserProfile%\AppData\Local\EpicGamesLauncher" "%CustAppDir%\Local\EpicGamesLauncher"
+:: rd /s /q "%UserProfile%\AppData\Local\EpicGamesLauncher"
+:: MKLINK /D  "%UserProfile%\AppData\Local\EpicGamesLauncher" "%CustAppDir%\Local\EpicGamesLauncher"
 :: GOG
-MKLINK /D  "%UserProfile%\AppData\Local\GOG.com" "%CustAppDir%\Local\GOG.com"
+:: rd /s /q "%UserProfile%\AppData\Local\GOG.com"
+:: MKLINK /D  "%UserProfile%\AppData\Local\GOG.com" "%CustAppDir%\Local\GOG.com"
 :: Chrome
-MKLINK /D  "%UserProfile%\AppData\Local\Google" "%CustAppDir%\Local\Google"
+:: MKLINK /D  "%UserProfile%\AppData\Local\Google" "%CustAppDir%\Local\Google"
+:: MEGA
+rd /s /q "%UserProfile%\AppData\Local\Mega Limited"
 MKLINK /D  "%UserProfile%\AppData\Local\Mega Limited" "%CustAppDir%\Local\Mega Limited"
+:: Origin
+rd /s /q "%UserProfile%\AppData\Local\Origin"
 MKLINK /D  "%UserProfile%\AppData\Local\Origin" "%CustAppDir%\Local\Origin"
+rd /s /q "%UserProfile%\AppData\Roaming\Origin"
+MKLINK /D  "%UserProfile%\AppData\Roaming\Origin" "%CustAppDir%\Roaming\Origin"
 :: Spotify Cache
-MKLINK /D  "%UserProfile%\AppData\Local\Spotify" "%CustAppDir%\Local\Spotify"
+:: MKLINK /D  "%UserProfile%\AppData\Local\Spotify" "%CustAppDir%\Local\Spotify"
 :: Steam
-MKLINK /D  "%UserProfile%\AppData\Local\Steam" "%CustAppDir%\Local\Steam"
+:: rd /s /q "%UserProfile%\AppData\Local\Steam"
+:: MKLINK /D  "%UserProfile%\AppData\Local\Steam" "%CustAppDir%\Local\Steam"
 :: Ubisoft
-MKLINK /D  "%UserProfile%\AppData\Local\Ubisoft Game Launcher" "%CustAppDir%\Local\Ubisoft Game Launcher"
+:: rd /s /q "%UserProfile%\AppData\Local\Ubisoft Game Launcher"
+:: MKLINK /D  "%UserProfile%\AppData\Local\Ubisoft Game Launcher" "%CustAppDir%\Local\Ubisoft Game Launcher"
 :: cFos
+rd /s /q "%UserProfile%\AppData\Local\cFos"
 MKLINK /D  "%UserProfile%\AppData\Local\cFos" "%CustAppDir%\Local\cFos"
+:: converseen
+rd /s /q "%UserProfile%\AppData\Local\converseen"
 MKLINK /D  "%UserProfile%\AppData\Local\converseen" "%CustAppDir%\Local\converseen"
+:: AIMP
+rd /s /q "%UserProfile%\AppData\Roaming\AIMP" 
 MKLINK /D  "%UserProfile%\AppData\Roaming\AIMP" "%CustAppDir%\Roaming\AIMP"
-MKLINK /D  "%UserProfile%\AppData\Roaming\Acronis" "%CustAppDir%\Roaming\Acronis"
+:: Atom
+rd /s /q  "%UserProfile%\AppData\Roaming\Atom" 
+MKLINK /D  "%UserProfile%\AppData\Roaming\Atom" "%CustAppDir%\Roaming\Atom"
+:: Acronis
+:: MKLINK /D  "%UserProfile%\AppData\Roaming\Acronis" "%CustAppDir%\Roaming\Acronis"
 :: GitHub Desktop
+rd /s /q "%UserProfile%\AppData\Roaming\GitHub Desktop"
 MKLINK /D  "%UserProfile%\AppData\Roaming\GitHub Desktop" "%CustAppDir%\Roaming\GitHub Desktop"
 :: Authy
-MKLINK /D  "%UserProfile%\AppData\Roaming\Authy Desktop" "%CustAppDir%\Roaming\Authy Desktop"
+:: MKLINK /D  "%UserProfile%\AppData\Roaming\Authy Desktop" "%CustAppDir%\Roaming\Authy Desktop"
 :: BatteryBar
-MKLINK /D  "%UserProfile%\AppData\Roaming\BatteryBar" "%CustAppDir%\Roaming\BatteryBar"
+:: MKLINK /D  "%UserProfile%\AppData\Roaming\BatteryBar" "%CustAppDir%\Roaming\BatteryBar"
+:: Burnaware
+rd /s /q "%UserProfile%\AppData\Roaming\Burnaware"
 MKLINK /D  "%UserProfile%\AppData\Roaming\Burnaware" "%CustAppDir%\Roaming\Burnaware"
 :: IDM
+rd /s /q "%UserProfile%\AppData\Roaming\IDM"
 MKLINK /D  "%UserProfile%\AppData\Roaming\IDM" "%CustAppDir%\Roaming\IDM"
+:: GIMP
+rd /s /q "%UserProfile%\AppData\Roaming\GIMP"
+MKLINK /D  "%UserProfile%\AppData\Roaming\GIMP" "%CustAppDir%\Roaming\GIMP"
+:: Goldberg SteamEmu Saves
+rd /s /q "%UserProfile%\AppData\Roaming\Goldberg SteamEmu Saves"
+MKLINK /D  "%UserProfile%\AppData\Roaming\Goldberg SteamEmu Saves" "%CustAppDir%\Roaming\Goldberg SteamEmu Saves"
+:: IV
+rd /s /q "%UserProfile%\AppData\Roaming\IrfanView"
 MKLINK /D  "%UserProfile%\AppData\Roaming\IrfanView" "%CustAppDir%\Roaming\IrfanView"
+:: KC Softwares
+rd /s /q "%UserProfile%\AppData\Roaming\KC Softwares"
 MKLINK /D  "%UserProfile%\AppData\Roaming\KC Softwares" "%CustAppDir%\Roaming\KC Softwares"
+:: Kodi
+rd /s /q "%UserProfile%\AppData\Roaming\Kodi"
 MKLINK /D  "%UserProfile%\AppData\Roaming\Kodi" "%CustAppDir%\Roaming\Kodi"
-MKLINK /D  "%UserProfile%\AppData\Roaming\Notepad++" "%CustAppDir%\Roaming\Notepad++"
-MKLINK /D  "%UserProfile%\AppData\Roaming\Origin" "%CustAppDir%\Roaming\Origin"
-:: Adguard cannot handle it :: MKLINK /D  "%UserProfile%\AppData\Roaming\Spotify" "%CustAppDir%\Roaming\Spotify"
+:: Notepad++
+rd /s /q "%UserProfile%\AppData\Roaming\Notepad++" 
+MKLINK /D "%UserProfile%\AppData\Roaming\Notepad++" "%CustAppDir%\Roaming\Notepad++"
+:: Signal
+MKLINK /D  "%UserProfile%\AppData\Roaming\Signal" "%CustAppDir%\Roaming\Signal"
+:: TagScanner
+rd /s /q "%UserProfile%\AppData\Roaming\TagScanner"
+MKLINK /D  "%UserProfile%\AppData\Roaming\TagScanner" "%CustAppDir%\Roaming\TagScanner"
+:: Spotify Cache UWP
+rd /s /q "%UserProfile%\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalState\"
+rd /s /q "%UserProfile%\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache\"
+MKLINK /D "%UserProfile%\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalState" "%CustAppDir%\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalState"
+MKLINK /D "%UserProfile%\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache" "%CustAppDir%\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalCache"
+:: WinRAR
+rd /s /q %UserProfile%\AppData\Roaming\WinRAR"
 MKLINK /D  "%UserProfile%\AppData\Roaming\WinRAR" "%CustAppDir%\Roaming\WinRAR"
+:: copyq
+rd /s /q "%UserProfile%\AppData\Roaming\copyq"
 MKLINK /D  "%UserProfile%\AppData\Roaming\copyq" "%CustAppDir%\Roaming\copyq"
+:: picpick
+rd /s /q "%UserProfile%\AppData\Roaming\picpick"
 MKLINK /D  "%UserProfile%\AppData\Roaming\picpick" "%CustAppDir%\Roaming\picpick"
+:: qBittorrent
+rd /s /q "%UserProfile%\AppData\Roaming\qBittorrent"
 MKLINK /D  "%UserProfile%\AppData\Roaming\qBittorrent" "%CustAppDir%\Roaming\qBittorrent"
+:: Bitwarden
+rd /s /q "%UserProfile%\AppData\Roaming\Bitwarden"
 MKLINK /D  "%UserProfile%\AppData\Roaming\Bitwarden" "%CustAppDir%\Roaming\Bitwarden"
+:: discord
+rd /s /q "%UserProfile%\AppData\Roaming\discord"
 MKLINK /D  "%UserProfile%\AppData\Roaming\discord" "%CustAppDir%\Roaming\discord"
+:: VLC
+rd /s /q "%UserProfile%\AppData\Roaming\vlc"
 MKLINK /D  "%UserProfile%\AppData\Roaming\vlc" "%CustAppDir%\Roaming\vlc"
+:: WhatsApp
+rd /s /q "%UserProfile%\AppData\Roaming\WhatsApp"
+MKLINK /D  "%UserProfile%\AppData\Roaming\WhatsApp" "%CustAppDir%\Roaming\WhatsApp"
+:: Outlook
+rd /s /q "%UserProfile%\AppData\Local\Microsoft\Outlook"
 MKLINK /D  "%UserProfile%\AppData\Local\Microsoft\Outlook" "%CustAppDir%\Local\Microsoft\Outlook"
 :: Edge Chromium
-if exist "%UserProfile%\AppData\Local\Microsoft\Edge\" rd /s /q "%UserProfile%\AppData\Local\Microsoft\Edge\"
-if not exist "%CustAppDir%\Local\Microsoft\Edge" mkdir "%CustAppDir%\Local\Microsoft\Edge"
+rd /s /q "%UserProfile%\AppData\Local\Microsoft\Edge\"
 MKLINK /D  "%UserProfile%\AppData\Local\Microsoft\Edge" "%CustAppDir%\Local\Microsoft\Edge"
 :: Themems
-if exist "%UserProfile%\AppData\Local\Microsoft\Windows\Themes" rd /s /q "%UserProfile%\AppData\Local\Microsoft\Windows\Themes"
+rd /s /q "%UserProfile%\AppData\Local\Microsoft\Windows\Themes"
 MKLINK /D  "%UserProfile%\AppData\Local\Microsoft\Windows\Themes" "%CustAppDir%\Local\Microsoft\Windows\Themes"
+:: Chomikbox
+rd /s /q "%UserProfile%\AppData\Local\Chomikbox"
 MKLINK /D  "%UserProfile%\AppData\Local\Chomikbox" "%CustAppDir%\Local\Chomikbox"
 :: Firefox
-if not exist "%CustAppDir%\Roaming\Mozilla\" mkdir "%CustAppDir%\Roaming\Mozilla\"
-if not exist "%CustAppDir%\Local\Mozilla\" mkdir "%CustAppDir%\Local\Mozilla\"
-if exist "%UserProfile%\AppData\Roaming\Mozilla\" rd /s /q "%UserProfile%\AppData\Roaming\Mozilla\"
-if exist "%UserProfile%\AppData\Local\Mozilla\" rd /s /q "%UserProfile%\AppData\Local\Mozilla\"
+rd /s /q "%UserProfile%\AppData\Roaming\Mozilla\"
+rd /s /q "%UserProfile%\AppData\Local\Mozilla\"
 MKLINK /D  "%UserProfile%\AppData\Roaming\Mozilla\" "%CustAppDir%\Roaming\Mozilla\"
 MKLINK /D  "%UserProfile%\AppData\Local\Mozilla\" "%CustAppDir%\Local\Mozilla\"
 :: Thunderbird
-if not exist "%CustAppDir%\Roaming\Thunderbird\" mkdir "%CustAppDir%\Roaming\Thunderbird\"
-if not exist "%CustAppDir%\Local\Thunderbird\" mkdir "%CustAppDir%\Local\Thunderbird\"
-if exist "%UserProfile%\AppData\Roaming\Thunderbird\" rd /s /q "%UserProfile%\AppData\Roaming\Thunderbird\"
-if exist "%UserProfile%\AppData\Local\Thunderbird\" rd /s /q "%UserProfile%\AppData\Local\Thunderbird\"
+rd /s /q "%UserProfile%\AppData\Roaming\Thunderbird\"
+rd /s /q "%UserProfile%\AppData\Local\Thunderbird\"
 MKLINK /D  "%UserProfile%\AppData\Roaming\Thunderbird\" "%CustAppDir%\Roaming\Thunderbird\"
 MKLINK /D  "%UserProfile%\AppData\Local\Thunderbird\" "%CustAppDir%\Local\Thunderbird\"
+:: JDownloader
+rd /s /q "%UserProfile%\AppData\Local\JDownloader 2.0"
+MKLINK /D  "%UserProfile%\AppData\Local\JDownloader 2.0" "%CustAppDir%\Local\JDownloader 2.0"
+:: CODEX
+::MKLINK /D  "c:\Users\Public\Documents\Steam" "d:\fademind\Documents\Steam"
+::MKLINK /D  "%UserProfile%\AppData\Roaming\Steam" "%CustAppDir%\Local\Roaming\Steam"
+:: WeMod
+::MKLINK /D  "%UserProfile%\AppData\Roaming\WeMod" "%CustAppDir%\Local\Roaming\WeMod"
+
 pause
