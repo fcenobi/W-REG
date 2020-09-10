@@ -29,10 +29,5 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 	
 :EXPORTDRV
-set PATH_DSR="D:\fademind\DriverStoreRepository"
-mkdir "%PATH_DSR%"
-:: https://superuser.com/a/776528
-pushd "%PATH_DSR%"
-rd /s /q . 2>nul
-DISM /online /export-driver /destination:"%PATH_DSR%"
+sfc /scannow
 @PAUSE
