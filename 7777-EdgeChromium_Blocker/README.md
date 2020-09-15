@@ -9,6 +9,8 @@ setup.exe --uninstall --system-level --verbose-logging --force-uninstall
 ```
 ./EdgeChromium_Blocker.cmd /B
 ```
+OR ADD FILE `000-DoNotUpdateToEdgeWithChromium---ENABLE.reg` to registry. 
+
 3. Done. 
 
 REFERENCE:
